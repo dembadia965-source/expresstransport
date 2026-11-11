@@ -4,6 +4,43 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-10 · rapport n°2
+
+**Opportunités proposées (score sur 100)**
+
+| Opportunité | Statut | Score | Remarque |
+|---|---|---|---|
+| Mise à jour : vues éclatées « du démontage au fonctionnement » | Confirmé | 78 (−2) | Concurrence accrue (*cutaway*) ; exigence : mécanisme qui fonctionne |
+| Mise à jour : science d'actualité, Léonides | Confirmé | 77 | Premier quartier le 17, 10 à 15 météores/h |
+| Le foot expliqué par la physique, calé sur les matchs | Émergent | 73 | Italie–France 12 nov., France–Turquie 15 nov., Serbie–Allemagne 13 nov., Allemagne–Pays-Bas 16 nov. |
+| Scans du réel (Gaussian splats, Blender 5.3) : « voilà comment c'était » | Expérimental | 72 | Univers restauration |
+| Animations produit pour des marques avant le Black Friday | Émergent | 67 | Revenu hors Creator Rewards |
+
+**Idées de vidéos proposées**
+
+- C1 « Pourquoi ce ballon tourne en l'air sans que personne ne le touche » (effet Magnus) : FR le 12 ou le 15, DE le 13 ou le 16.
+- C2 « Ce château en ruine, tel qu'il était il y a 600 ans » (scan + reconstruction).
+- C3 « 13 ans entre GTA V et GTA VI : tout ce qui a changé » : le 19 au matin.
+- Autres titres : ballon qui ne tourne pas, penalty en 0,4 s, outil rouillé restauré, lavoir abandonné, gourde isotherme, écouteurs sans fil, lampe de bureau.
+
+**Outils et techniques repérés**
+
+- Blender 5.3 : Gaussian splats natifs (import PLY et SPZ v4, Geometry Nodes, rendu Workbench/EEVEE/Cycles, pas d'export).
+- Scaniverse (scan au téléphone, gratuit selon l'éditeur ; conditions commerciales à vérifier), Polycam (export PLY).
+- Eleven v4 et v4 Turbo confirmés (annonce du 28 sept. 2026, plus de 90 langues).
+- GitHub : *escapement* (Claude Code pilote Blender 5.2 sans interface), *cutaway* (vue éclatée depuis une photo, three.js), *shorts-kit* (registre de faits), *image-to-sculpt* (timelapse de sculpture).
+- Gemini Omni 1.2 Flash (5 nov., 15 s, ~0,07 $/s en 720p, source unique).
+- Écartés : tiktok-uploader (publication automatique non officielle), HyperFlow H3 Flash (licence MiniMax H3), Symphony + Seedance 2.5 (annonceurs), NVIDIA Cosmos 3.
+
+**Faits de monétisation notés**
+
+- Témoignages de baisse des RPM et de disqualifications du Creator Rewards depuis la vente de TikTok US (janv. 2026) ; cause contestée ; aucune donnée FR/DE.
+- Symphony + Seedance 2.5 réservé aux annonceurs (seuil de 5 000 $ sur 30 jours selon une source).
+
+**Événements suivis** : embargo des tests de GTA VI le 18 nov. et pré-chargement le 12 (fuites) ; *Hunger Games: Sunrise on the Reaping* le 20 nov. ; *Hexed* et *Focker-in-Law* le 25 nov. (dates US).
+
+**Incident** : le passage du 10 nov. a été interrompu par un redémarrage après l'écriture du rapport ; mémoire, page et push faits le 11 nov.
+
 ### 2026-11-09 · rapport n°1
 
 **Opportunités proposées (score sur 100)**
