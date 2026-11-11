@@ -4,6 +4,39 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-11 · rapport n°3
+
+**Opportunités proposées (score sur 100)**
+
+| Opportunité | Statut | Score | Remarque |
+|---|---|---|---|
+| Noël mécanique : objets de Noël expliqués en 3D (FR et DE) | Émergent | 80 | Opportunité n°1 ; 8 épisodes du 23 nov. au 22 déc. |
+| Mise à jour : « où va ton argent », GTA VI en boîte | Émergent | 78 | Édition physique = code, pas de disque |
+| Avant / maintenant en 3D | Émergent | 73 | Tendance carrousel nostalgie (Fast Company, 10 nov.) |
+| Mise à jour : animations produit | Émergent | 67 | Campagne TikTok Shop BFCM du 11 au 30 nov. (US) |
+| « Ton année en 3D » à partir de données personnelles | Expérimental | 66 | Produit numérique de décembre |
+
+**Idées de vidéos proposées**
+
+- C1 « Comment un casse-noisette multiplie la force de ta main » : fin novembre, DE en priorité.
+- C2 « GTA VI en boîte : ouvre-la, il n'y a pas de disque » : le 12 ou au plus tard le 17 nov.
+- C3 « Pourquoi cette boule de Noël a été soufflée comme il y a 180 ans » (Lauscha) : début décembre.
+- Autres titres : pyramide de Noël, boîte à musique, guirlande, bougie, flocon, cadeaux par seconde, téléphone 2013/2026, rue en 1900, année de course en 3D.
+
+**Outils et techniques repérés**
+
+- Blender 5.3 sorti le 10 nov. : DLSS 4.5 Ray Reconstruction, dispersion dans Cycles, nouveaux Geometry Nodes, système de projet optionnel (en plus des splats et de Vulkan).
+- GitHub : *cinematic-skill*, *line-art-animation*, *claude-watch*, *MCP_Image_to_3D* (image vers splat PLY), *strava-home-runs*.
+- Sora fermé (app 26 avr. 2026, API 24 sept. 2026).
+- Écartés : TikTok Shop Plus (abonnement acheteur US).
+
+**Faits de monétisation notés**
+
+- Campagne TikTok Shop Black Friday et Cyber Monday : 11 au 30 nov. 2026 aux US ; rien d'officiel pour FR/DE.
+- Pyjamas de Noël +297 % sur un mois en septembre ; ventes LIVE plus que doublées au S1 2026 (données TikTok via la presse).
+
+**Événements suivis** : GTA VI pré-chargement le 12 nov. (Take-Two), pas de multijoueur au lancement, PC pas avant 2027 (rumeur) ; tendance carrousel « avant / maintenant » ; son « It's Time » de Mariah Carey (saison de Noël).
+
 ### 2026-11-10 · rapport n°2
 
 **Opportunités proposées (score sur 100)**
