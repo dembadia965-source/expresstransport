@@ -4,6 +4,32 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-12 · rapport n°4
+
+**Classement général à cette date** : 1. « Vibe Knowledge » FR/DE (82, nouveau) · 2. Noël mécanique (80) · 3. Vues éclatées en fonctionnement (78) · 4. Économie GTA VI (78, fenêtre jusqu'au 17 nov.) · 5. Léonides (77, publier du 14 au 17 nov.). Hors top 5 : Minecraft édition hiver (71, +2), séries 3D à personnages récurrents (68, nouveau).
+
+**Idées de vidéos proposées**
+
+- C1 « Napoléon n'était pas petit : l'erreur vient d'une unité de mesure » (pilote Vibe Knowledge, avec et sans voix off).
+- C2 « Ce qui arrive vraiment à ton corps quand il gèle » (Minecraft, zombie Frostbite) : à la sortie du drop d'hiver.
+- C3 « Pourquoi un match de foot dure 90 minutes » : FR le 15, DE le 16 nov.
+- Autres titres : pourquoi la semaine a sept jours ; robot et neige ; ingénieur et montre ; robot et casse-noisette.
+
+**Outils et techniques repérés**
+
+- Tendance chinoise « Vibe Knowledge » (#VibeKnowledgeAwards : 51 000 participants, 1,17 milliard de vues ; 600 000 abonnés en 15 jours pour des nouveaux comptes, selon 36Kr).
+- Skills GitHub : *vibe-knowledge* (andyhuo520, MIT, 635★), *vibe-knowledge-interactive* (MIT), *vibe-knowledge-video-skill* (MIT), *vibe-knowledge-film* (1 269★, sans licence), *vibe-knowledge-video* (licence non précisée).
+- Blender 5.3 : test communautaire de 94 add-ons (14 des 30 populaires en échec, 13 déjà cassés en 4.5) ; add-ons compilés pour Python 3.11 incompatibles avec 3.13.
+- Suivi : *rea-video* 7 196★ (+2 402 en 3 jours), *claude-animated-shorts* 3 001★, *cutaway* 176★, *escapement* 127★, *anymove* 578★.
+- Écartés : blender-ai-mcp-addon et ai-texture-forge (signaux de popularité douteux), ViralForge (réplication de vidéos), faceless-shorts (envoi automatique en masse).
+
+**Faits de monétisation et de risque notés**
+
+- France : interdiction des réseaux sociaux aux moins de 15 ans adoptée le 21 juil. 2026, censurée par le Conseil constitutionnel le 14 août. Allemagne : débat, pas de loi. UE : propositions attendues.
+- Aucun changement du Creator Rewards trouvé cette semaine ; liste de pays (dont FR et DE) donnée par une source citant une page TikTok mise à jour le 11 sept. 2026.
+
+**Événements suivis** : drop d'hiver de Minecraft (Java 26.4, Bedrock 26.70 : grottes de glace, zombie Frostbite, gel), sortie estimée du 13 au 20 déc. ; TikTok Awards Asie du Sud-Est le 27 nov. (sans intérêt direct).
+
 ### 2026-11-11 · rapport n°3
 
 **Opportunités proposées (score sur 100)**
