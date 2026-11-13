@@ -150,12 +150,507 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   <div class="bar-inner">
     <div class="brand"><span class="rec" aria-hidden="true"></span>Veille TikTok IA <small>FR · DE</small></div>
     <label class="picker" for="report-select">Rapport du
-      <select id="report-select"><option value="r-2026-11-12">jeudi 12 novembre 2026</option><option value="r-2026-11-11">mercredi 11 novembre 2026</option><option value="r-2026-11-10">mardi 10 novembre 2026</option><option value="r-2026-11-09">lundi 9 novembre 2026</option></select>
+      <select id="report-select"><option value="r-2026-11-13">vendredi 13 novembre 2026</option><option value="r-2026-11-12">jeudi 12 novembre 2026</option><option value="r-2026-11-11">mercredi 11 novembre 2026</option><option value="r-2026-11-10">mardi 10 novembre 2026</option><option value="r-2026-11-09">lundi 9 novembre 2026</option></select>
     </label>
   </div>
 </header>
 <main class="col">
-<article class="report" id="r-2026-11-12">
+<article class="report" id="r-2026-11-13">
+<h1 id="r-2026-11-13-veille-tiktok-ia-vendredi-13-novembre-2026">Veille TikTok IA · vendredi 13 novembre 2026</h1>
+<ul class="toc" aria-label="Sections"><li><a href="#r-2026-11-13-a-les-5-informations-les-plus-importantes-du-jour">A · Infos du jour</a></li><li><a href="#r-2026-11-13-b-top-5-des-opportunites-tiktok">B · Top 5</a></li><li><a href="#r-2026-11-13-c-les-3-meilleures-idees-de-videos-a-tester">C · Idées vidéo</a></li><li><a href="#r-2026-11-13-d-les-nouveaux-outils-et-techniques">D · Outils</a></li><li><a href="#r-2026-11-13-e-ce-que-je-devrais-faire-aujourdhui">E · Aujourd&#x27;hui</a></li><li><a href="#r-2026-11-13-f-mon-opportunite-numero-1-tester-vibe-knowledge-ce-soir-avec-le-vendredi-13">F · Opportunité n°1</a></li></ul>
+<p>Rapport n°5 · période couverte : 11 au 13 novembre 2026. Les sujets déjà traités ne reviennent que s'ils ont évolué.</p>
+<blockquote>
+<p><strong>Méthode et limites.</strong> Recherche web et recherche GitHub (API officielle). La lecture directe reste bloquée pour TikTok, blender.org, Reddit, Tryvolume et 36Kr : les informations de ces sites viennent des résumés du moteur de recherche. Le résultat d'Italie–France d'hier soir n'était pas encore indexé au moment de la recherche. Tu ne m'as encore transmis aucune statistique : les notes restent des estimations.</p>
+</blockquote>
+<p><strong>Légende.</strong> <span class="chip ok">Confirmé</span> : source officielle ou plusieurs sources concordantes. <span class="chip warn">Émergent</span> : signal récent, peu de recul. <span class="chip exp">Expérimental</span> : idée ou déduction de ma part, non testée. Le niveau de confiance (<span class="chip conf conf-high">Confiance élevée</span>, <span class="chip conf conf-mid">Confiance moyenne</span>, <span class="chip conf conf-low">Confiance faible</span>) porte sur l'exactitude de l'information.</p>
+<h2 id="r-2026-11-13-a-les-5-informations-les-plus-importantes-du-jour"><span class="sec-letter" aria-hidden="true">A</span>Les 5 informations les plus importantes du jour</h2>
+<h3 id="r-2026-11-13-1-securite-une-vague-de-faux-add-ons-ia-pour-blender-ressemble-a-une-campagne-de-malware-connue">1. Sécurité : une vague de faux add-ons « IA pour Blender » ressemble à une campagne de malware connue</h3>
+<p><span class="chip ok">Confirmé</span> pour la campagne <span class="chip conf conf-high">Confiance élevée</span> · <span class="chip exp">Expérimental</span> pour le lien avec ces dépôts (aucune analyse de code)</p>
+<ul>
+<li><strong>Le fait.</strong> Depuis le 11 novembre, au moins six dépôts « Blender AI MCP » ou « Blender AI copilot » sont apparus sur GitHub, chacun publié par un compte créé le jour même, sans autre dépôt, avec 70 à 300 étoiles en un ou deux jours. Ce schéma correspond à la campagne FakeGit documentée par plusieurs éditeurs de sécurité : environ 7 600 faux dépôts en juillet 2026, dont 800 déguisés en skills IA ou serveurs MCP, qui installent un chargeur (SmartLoader) puis un voleur de mots de passe (StealC). La campagne est repartie en octobre avec 17 610 dépôts. Les chercheurs notent aussi que des assistants de code IA peuvent être amenés à recommander ces dépôts.</li>
+<li><strong>Pourquoi ça compte.</strong> Tu installes des skills et des serveurs MCP pour Claude Code et Blender : tu es exactement la cible. Un voleur de mots de passe peut prendre tes comptes TikTok, ElevenLabs ou bancaires.</li>
+<li><strong>Ce que tu en tires.</strong> N'installe pour Blender que le serveur MCP officiel. Pour tout autre dépôt, applique la vérification de la section D1. J'ai repassé les dépôts recommandés dans les rapports précédents au même crible (tableau ci-dessous).</li>
+<li><strong>Sources.</strong> <a href="https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html" target="_blank" rel="noopener">The Hacker News, FakeGit</a> · <a href="https://bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos" target="_blank" rel="noopener">BleepingComputer, retour avec 17 610 dépôts</a> · <a href="https://www.island.io/blog/agentbaiting-how-800-fake-ai-skills-and-mcp-servers-delivered-malware" target="_blank" rel="noopener">Island, 800 faux skills IA et serveurs MCP</a> · <a href="https://www.helpnetsecurity.com/2026/07/21/github-repos-malware-campaign-fakegit-ai-agents/" target="_blank" rel="noopener">Help Net Security, agents IA trompés</a> · exemples : <a href="https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio" target="_blank" rel="noopener">Blender-AI-MCP-Studio</a>, <a href="https://github.com/precygtrucqui1981/blender-ai-copilot-lab" target="_blank" rel="noopener">blender-ai-copilot-lab</a>, <a href="https://github.com/hitkeeen/blender-ai-mcp-addon" target="_blank" rel="noopener">blender-ai-mcp-addon (hitkeeen)</a>, <a href="https://github.com/linknimiball1974/ai-texture-forge" target="_blank" rel="noopener">ai-texture-forge</a></li>
+</ul>
+<p><strong>Contrôle des dépôts recommandés depuis le 9 novembre</strong> (historique public du compte propriétaire, relevé le 13 novembre ; un compte récent n'est pas une preuve de malveillance, mais impose plus de prudence)</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Dépôt</th>
+<th>Compte</th>
+<th>Dépôts publics</th>
+<th>Plus ancien dépôt</th>
+<th>Niveau de prudence</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><em>rea-video</em></td>
+<td>JuneYaooo</td>
+<td>71</td>
+<td>2020</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>shorts-kit</em></td>
+<td>howznguyen</td>
+<td>44</td>
+<td>2020</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>line-art-animation</em></td>
+<td>JDhruv14</td>
+<td>23</td>
+<td>2022</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>toyxyz-blender-retargeter</em></td>
+<td>toyxyz</td>
+<td>11</td>
+<td>2023</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>cinematic-skill</em></td>
+<td>Moh4696</td>
+<td>36</td>
+<td>2024</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>image-to-sculpt</em></td>
+<td>gokayfem</td>
+<td>43</td>
+<td>2024</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>vibe-knowledge</em></td>
+<td>andyhuo520</td>
+<td>23</td>
+<td>2025</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>escapement</em></td>
+<td>Leonxlnx</td>
+<td>77</td>
+<td>2025</td>
+<td>Normal</td>
+</tr>
+<tr>
+<td><em>blender-skills</em></td>
+<td>EL4CTEO</td>
+<td>12</td>
+<td>février 2026</td>
+<td>Renforcé</td>
+</tr>
+<tr>
+<td><em>manimgx</em></td>
+<td>academa-labs</td>
+<td>1</td>
+<td>octobre 2026</td>
+<td>Renforcé</td>
+</tr>
+<tr>
+<td><em>anymove</em></td>
+<td>patch-gg</td>
+<td>5</td>
+<td>octobre 2026</td>
+<td>Renforcé</td>
+</tr>
+<tr>
+<td><em>claude-animated-shorts</em></td>
+<td>mromidev</td>
+<td>2</td>
+<td>octobre 2026</td>
+<td>Renforcé</td>
+</tr>
+<tr>
+<td><em>cutaway</em></td>
+<td>Nyxera0x</td>
+<td>1</td>
+<td>novembre 2026</td>
+<td>Renforcé</td>
+</tr>
+</tbody>
+</table></div>
+<p>« Renforcé » : lis tout le code avec Claude Code avant d'exécuter quoi que ce soit, n'exécute aucun binaire téléchargé, et teste dans un environnement isolé.</p>
+<h3 id="r-2026-11-13-2-leurope-demande-a-tiktok-de-revoir-son-flux-pour-toi">2. L'Europe demande à TikTok de revoir son flux « Pour toi »</h3>
+<p><span class="chip ok">Confirmé</span> <span class="chip conf conf-high">Confiance élevée</span></p>
+<ul>
+<li><strong>Le fait.</strong> Le 6 novembre 2026, la Commission européenne a publié des conclusions préliminaires selon lesquelles le flux « Pour toi » enfreint le règlement sur les services numériques (DSA) : l'algorithme enfermerait les utilisateurs, dont des mineurs, dans des spirales de contenus sur la tristesse, l'isolement ou l'image du corps. TikTok peut répondre avant une décision finale, qui pourrait aller jusqu'à 6 % de son chiffre d'affaires mondial. Les conclusions précédentes portaient sur la conception addictive (février 2026) et la protection des mineurs (juillet 2026).</li>
+<li><strong>Pourquoi ça compte.</strong> Si TikTok doit modifier son flux en Europe, la façon dont tes vidéos sont distribuées en France et en Allemagne peut changer, par exemple avec plus de diversité imposée dans les recommandations. Rien n'est décidé.</li>
+<li><strong>Ce que tu en tires.</strong> Pas d'action immédiate. Raison de plus pour noter tes statistiques chaque semaine : c'est ainsi que tu verras un changement de distribution dès qu'il arrive.</li>
+<li><strong>Sources.</strong> <a href="https://www.mlex.com/mlex/articles/2547177" target="_blank" rel="noopener">MLex</a> · <a href="https://www.khaleejtimes.com/europe/eu-tik-tok-for-you-feed-design-change-large-fines" target="_blank" rel="noopener">Khaleej Times</a> · <a href="https://digitalpolicyalert.org/event/45494-european-commission-issued-preliminary-findings-against-tiktok-concerning-compliance-with-digital-services-act-finding-that-for-you-feed-leads-users-into-harmful-content" target="_blank" rel="noopener">Digital Policy Alert</a></li>
+</ul>
+<h3 id="r-2026-11-13-3-aujourdhui-vendredi-13-le-dernier-avant-aout-2027">3. Aujourd'hui, vendredi 13 : le dernier avant août 2027</h3>
+<p><span class="chip ok">Confirmé</span> <span class="chip conf conf-high">Confiance élevée</span> (calendrier)</p>
+<ul>
+<li><strong>Le fait.</strong> Le prochain vendredi 13 tombe le 13 août 2027. Les recherches sur la superstition ont lieu ces jours-là. L'histoire est riche et méconnue : l'arrestation des Templiers le vendredi 13 octobre 1307 n'a été associée à la superstition que tardivement, et le roman <em>Friday, the Thirteenth</em> de Thomas W. Lawson (1907) a popularisé l'expression moderne.</li>
+<li><strong>Pourquoi ça compte.</strong> C'est un sujet parfait pour tester ce soir le format « Vibe Knowledge » (opportunité n°1 d'hier) : idée reçue, documents d'époque, fin surprenante.</li>
+<li><strong>Ce que tu en tires.</strong> L'idée C1, à produire en 2 à 3 h et à publier ce soir. Sinon, garde-la pour le 13 août 2027.</li>
+<li><strong>Sources.</strong> <a href="https://www.history.com/articles/friday-the-13th" target="_blank" rel="noopener">History.com</a> · <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/friday-13th-superstition" target="_blank" rel="noopener">EBSCO Research Starters</a></li>
+</ul>
+<h3 id="r-2026-11-13-4-disney-ouvre-ses-personnages-aux-createurs-tiktok-dabord-aux-etats-unis">4. Disney ouvre ses personnages aux créateurs TikTok, d'abord aux États-Unis</h3>
+<p><span class="chip ok">Confirmé</span> <span class="chip conf conf-high">Confiance élevée</span> pour l'accord · <span class="chip conf conf-low">Confiance faible</span> pour l'arrivée en Europe</p>
+<ul>
+<li><strong>Le fait.</strong> L'accord Disney–TikTok du 5 août 2026 donne aux créateurs volontaires un accès sous licence à des éléments de Marvel, Pixar et Star Wars pour faire du contenu de fans ; ces vidéos peuvent aussi apparaître dans le flux vertical de Disney+. Un pilote américain devait démarrer « dans les prochains mois », avec un programme d'ambassadeurs. Les conditions de paiement ne sont pas publiques. L'accord vise des créateurs humains, pas la génération IA de personnages.</li>
+<li><strong>Pourquoi ça compte.</strong> Si le programme arrive en France et en Allemagne, utiliser légalement ces personnages serait une source d'audience énorme pour un créateur 3D.</li>
+<li><strong>Ce que tu en tires.</strong> Rien à faire aujourd'hui. Je surveille son ouverture en Europe ; d'ici là, n'utilise aucun personnage Disney.</li>
+<li><strong>Sources.</strong> <a href="https://www.techrepublic.com/article/news-disney-plus-tiktok-creator-videos-deal/" target="_blank" rel="noopener">TechRepublic</a> · <a href="https://www.advanced-television.com/2026/08/05/disney-tiktok-sign-creator-content-sharing-deal/" target="_blank" rel="noopener">Advanced Television</a> · <a href="https://attractionsmagazine.com/disney-tiktok-creators-plan-streaming/" target="_blank" rel="noopener">Attractions Magazine</a></li>
+</ul>
+<h3 id="r-2026-11-13-5-mise-a-jour-le-format-vibe-knowledge-continue-de-se-repandre-cote-outils">5. Mise à jour : le format « Vibe Knowledge » continue de se répandre côté outils</h3>
+<p><span class="chip ok">Confirmé</span> pour les chiffres (relevés le 13 novembre) · <span class="chip exp">Expérimental</span> pour l'interprétation</p>
+<ul>
+<li><strong>Le fait.</strong> De nouveaux dépôts reprennent le style depuis le 10 novembre, dont un agent complet (recherche sourcée, texte, voix, musique, rendu image par image) et l'archive de production de 26 épisodes d'un créateur. Le dépôt de référence <em>vibe-knowledge-film</em> passe à 1 291 étoiles et <em>rea-video</em> à 7 629.</li>
+<li><strong>Pourquoi ça compte.</strong> Les outils se diffusent vite : la fenêtre pour être parmi les premiers en français et en allemand se réduit.</li>
+<li><strong>Ce que tu en tires.</strong> Si tu veux tester le format, c'est cette semaine. L'idée C1 est le test idéal.</li>
+<li><strong>Sources.</strong> <a href="https://github.com/nativejie/knowledge-video-agent" target="_blank" rel="noopener">knowledge-video-agent</a> · <a href="https://github.com/ayisuplus/vibe-knowledge-shorts" target="_blank" rel="noopener">vibe-knowledge-shorts (archive de 26 épisodes)</a> · <a href="https://github.com/HeyChengC/vibe-knowledge-film" target="_blank" rel="noopener">vibe-knowledge-film</a></li>
+</ul>
+<h3 id="r-2026-11-13-agenda-mis-a-jour">Agenda mis à jour</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Date</th>
+<th>Événement</th>
+<th>Usage possible</th>
+<th>Fiabilité</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>13 nov. (aujourd'hui)</td>
+<td>Vendredi 13 ; Serbie–Allemagne</td>
+<td>Idée C1 ; effet Magnus en DE</td>
+<td>Calendrier ; DFB</td>
+</tr>
+<tr>
+<td>15 nov.</td>
+<td>France–Turquie, 20 h 45</td>
+<td>« Pourquoi un match dure 90 minutes » (12 nov.)</td>
+<td>FFF</td>
+</tr>
+<tr>
+<td>16 nov.</td>
+<td>Allemagne–Pays-Bas</td>
+<td>Même idée en DE</td>
+<td>DFB</td>
+</tr>
+<tr>
+<td>17–18 nov.</td>
+<td>Léonides</td>
+<td>Vidéo étoiles filantes (9 nov.)</td>
+<td>EarthSky, Space.com</td>
+</tr>
+<tr>
+<td>18 nov.</td>
+<td>Tests de GTA VI</td>
+<td>Publier avant</td>
+<td>Fuite</td>
+</tr>
+<tr>
+<td>19 nov.</td>
+<td>Sortie de GTA VI</td>
+<td>« 13 ans entre GTA V et GTA VI » (10 nov.)</td>
+<td>Officielle</td>
+</tr>
+<tr>
+<td>23 nov. → 22 déc.</td>
+<td>Série « Noël mécanique »</td>
+<td>Idée C3</td>
+<td>Calendrier</td>
+</tr>
+<tr>
+<td>27 nov.</td>
+<td>Black Friday</td>
+<td>Animations produit ; affiliation</td>
+<td>Calendrier</td>
+</tr>
+<tr>
+<td>13–20 déc. (estimation)</td>
+<td>Drop d'hiver de Minecraft</td>
+<td>« Ce qui arrive à ton corps quand il gèle » (12 nov.)</td>
+<td>Presse</td>
+</tr>
+</tbody>
+</table></div>
+<h2 id="r-2026-11-13-b-top-5-des-opportunites-tiktok"><span class="sec-letter" aria-hidden="true">B</span>Top 5 des opportunités TikTok</h2>
+<p>Classement général : il reprend les meilleures opportunités de tous les rapports. Seules les nouvelles ou celles qui ont évolué ont une fiche aujourd'hui. Les notes sont des estimations, pas des prédictions.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Rang</th>
+<th>Opportunité</th>
+<th>Statut</th>
+<th>Score</th>
+<th>Difficulté</th>
+<th>Coût direct par vidéo</th>
+<th>Temps par vidéo</th>
+<th>Monétisation</th>
+<th>Fiche</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>« Vibe Knowledge » en français et en allemand</td>
+<td><span class="chip warn">Émergent</span></td>
+<td><strong>82</strong></td>
+<td>Faible à moyenne</td>
+<td>0 €</td>
+<td>2 à 3 h</td>
+<td>Creator Rewards, croissance</td>
+<td>12 nov. ; test idéal ce soir (C1)</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Noël mécanique</td>
+<td><span class="chip warn">Émergent</span></td>
+<td><strong>80</strong></td>
+<td>Moyenne</td>
+<td>Moins de 2 €</td>
+<td>5 à 7 h, puis 3 à 4 h</td>
+<td>Creator Rewards, sponsors</td>
+<td>11 nov. ; épisode 2 en C3</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vues éclatées en fonctionnement</td>
+<td><span class="chip ok">Confirmé</span></td>
+<td><strong>78</strong></td>
+<td>Moyenne à élevée</td>
+<td>Moins de 2 €</td>
+<td>7 à 9 h, puis 4 h</td>
+<td>Creator Rewards, portfolio</td>
+<td>10 nov.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Économie : GTA VI</td>
+<td><span class="chip warn">Émergent</span></td>
+<td><strong>78</strong></td>
+<td>Moyenne</td>
+<td>Moins de 2 €</td>
+<td>4 à 5 h</td>
+<td>Creator Rewards</td>
+<td>9 et 11 nov. ; fenêtre jusqu'au 17</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Science d'actualité : Léonides</td>
+<td><span class="chip ok">Confirmé</span></td>
+<td><strong>77</strong></td>
+<td>Moyenne à élevée</td>
+<td>Moins de 2 €</td>
+<td>5 à 7 h</td>
+<td>Creator Rewards</td>
+<td>10 nov. ; publier du 14 au 17</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Nouvelle entrée hors du top 5 :</strong> la cybersécurité expliquée en 3D, <strong>76</strong> (fiche ci-dessous). Inchangées : Minecraft édition hiver (71), séries 3D à personnages récurrents (68). À surveiller sans note : le contenu de fans sous licence Disney (A4), tant qu'il n'est pas ouvert en Europe.</p>
+<p><strong>Détail des notes (nouvelle entrée)</strong></p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Opportunité</th>
+<th>Audience /25</th>
+<th>Monétisation /20</th>
+<th>Facilité /20</th>
+<th>Concurrence /15</th>
+<th>Régularité /10</th>
+<th>Coût et rapidité /10</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cybersécurité expliquée en 3D</td>
+<td>16</td>
+<td>16</td>
+<td>16</td>
+<td>11</td>
+<td>9</td>
+<td>8</td>
+<td><strong>76</strong></td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="r-2026-11-13-cybersecurite-expliquee-en-3d-76100">Cybersécurité expliquée en 3D (76/100)</h3>
+<ol>
+<li><strong>Concept.</strong> Montrer en 3D ce qui se passe vraiment lors d'une arnaque ou d'une attaque informatique courante (faux logiciel, hameçonnage, vol de session), puis donner deux gestes de protection simples. Toujours du point de vue de la défense, sans mode d'emploi pour attaquer.</li>
+<li><strong>Pourquoi ça peut marcher.</strong> Les attaques sont invisibles : la 3D les rend concrètes (un fichier qui ouvre une porte, des mots de passe qui s'envolent). Le sujet touche les adultes, revient sans cesse dans l'actualité (A1) et ouvre un marché plus rémunérateur que les niches de divertissement : affiliation à des gestionnaires de mots de passe ou à des clés de sécurité.</li>
+<li><strong>Références réelles.</strong> Les campagnes documentées en A1 fournissent des cas réels et sourcés. Je n'ai pas mesuré aujourd'hui la concurrence 3D sur ce sujet en français et en allemand.</li>
+<li><strong>Concurrence.</strong> Moyenne (hypothèse) : des vulgarisateurs existent, surtout face caméra.</li>
+<li><strong>Difficulté.</strong> Moyenne : métaphores visuelles à inventer, faits techniques à vérifier.</li>
+<li><strong>Coût et temps.</strong> Aucune dépense ; 4 à 5 h.</li>
+<li><strong>Outils.</strong> Blender ou le gabarit « Vibe Knowledge », Claude Code (vérification technique), ElevenLabs, FFmpeg.</li>
+<li><strong>Monétisation.</strong> Creator Rewards ; affiliation et sponsors de sécurité (à signaler clairement comme partenariat, conformément à la loi française sur l'influence commerciale).</li>
+<li><strong>Trois vidéos.</strong> « Comment un faux logiciel vole tes mots de passe » (idée C2) · « Pourquoi un code reçu par SMS ne doit jamais être donné » · « Ce que voit un pirate quand tu te connectes à un Wi-Fi public ».</li>
+</ol>
+<h2 id="r-2026-11-13-c-les-3-meilleures-idees-de-videos-a-tester"><span class="sec-letter" aria-hidden="true">C</span>Les 3 meilleures idées de vidéos à tester</h2>
+<h3 id="r-2026-11-13-c1-pourquoi-le-vendredi-13-porte-malheur-et-pourquoi-les-templiers-ny-sont-presque-pour-rien">C1. « Pourquoi le vendredi 13 porte malheur (et pourquoi les Templiers n'y sont presque pour rien) »</h3>
+<p>Version allemande : « Warum Freitag der 13. Unglück bringt (und die Templer fast nichts damit zu tun haben) »</p>
+<ul>
+<li><strong>Hook exact (0 à 3 s).</strong> Un calendrier ancien recréé en code, la case « vendredi 13 » s'enflamme. Texte et voix : « Tout le monde accuse les Templiers. Ce sont surtout un roman de 1907 et un club new-yorkais. »</li>
+<li><strong>Déroulé.</strong><ul>
+<li>0 à 3 s : le hook.</li>
+<li>3 à 18 s : la version populaire. Le 13 octobre 1307, un vendredi, Philippe le Bel fait arrêter les Templiers.</li>
+<li>18 à 35 s : le problème. Pour les historiens, ce lien est tardif ; il a surtout été popularisé au XXIe siècle (<em>Da Vinci Code</em>, 2003). Avant le XXe siècle, « vendredi » et « 13 » portaient malheur séparément.</li>
+<li>35 à 55 s : les vrais coupables. Le Club des Treize fondé à New York en 1882, puis le roman <em>Friday, the Thirteenth</em> de Thomas W. Lawson (1907), vendu à plus de 60 000 exemplaires le premier mois.</li>
+<li>55 à 70 s : la chute. « Le prochain vendredi 13, c'est le 13 août 2027. Tu as quoi de prévu ? »</li>
+</ul>
+</li>
+<li><strong>Style visuel.</strong> Documents anciens recréés en code (parchemin, une de journal de 1907, couverture du roman redessinée), typographie gravée, sons de plume et de cloche.</li>
+<li><strong>Outils.</strong> Claude Code avec le gabarit « Vibe Knowledge » (rapport du 12 novembre), ElevenLabs en FR et DE, FFmpeg.</li>
+<li><strong>Durée cible.</strong> 65 à 70 s.</li>
+<li><strong>Temps de fabrication.</strong> 2 à 3 h.</li>
+<li><strong>À vérifier avant publication.</strong> Les dates et chiffres ci-dessus avec les sources citées en A3 ; aucune image sous droits (couverture du roman redessinée, pas copiée).</li>
+<li><strong>Publication.</strong> Ce soir, 13 novembre. Sinon, le 13 août 2027.</li>
+</ul>
+<h3 id="r-2026-11-13-c2-comment-un-faux-logiciel-vole-tes-mots-de-passe">C2. « Comment un faux logiciel vole tes mots de passe »</h3>
+<p>Version allemande : « Wie eine gefälschte Software deine Passwörter stiehlt »</p>
+<ul>
+<li><strong>Hook exact (0 à 3 s).</strong> Une jolie boîte cadeau étiquetée « Outil IA gratuit » s'ouvre ; à l'intérieur, une petite main mécanique attrape des clés dorées. Voix : « Des milliers de faux projets se font passer pour des outils IA. Voilà ce qui se passe si tu en installes un. »</li>
+<li><strong>Déroulé.</strong><ul>
+<li>0 à 3 s : le hook.</li>
+<li>3 à 18 s : l'appât. Un projet qui a l'air populaire (étoiles, belle description) mais un compte créé la veille.</li>
+<li>18 à 38 s : l'installation. Un premier programme discret ouvre la porte, puis en télécharge un second, le voleur.</li>
+<li>38 à 52 s : le vol. Mots de passe et sessions enregistrés dans le navigateur s'envolent vers un serveur.</li>
+<li>52 à 68 s : la protection. Deux gestes : vérifier l'âge du compte et l'historique d'un projet avant de l'installer ; activer la double authentification partout.</li>
+</ul>
+</li>
+<li><strong>Style visuel.</strong> Monde 3D symbolique et propre : maison-ordinateur, portes, clés, aucun écran de code réel ni commande exploitable.</li>
+<li><strong>Outils.</strong> Blender (scène symbolique réutilisable pour la série), Claude Code, ElevenLabs, SFX v3, FFmpeg.</li>
+<li><strong>Durée cible.</strong> 65 à 68 s.</li>
+<li><strong>Temps de fabrication.</strong> 4 à 5 h.</li>
+<li><strong>À vérifier avant publication.</strong> Les chiffres de la campagne FakeGit avec les sources de A1 ; formuler de manière générale, sans accuser un projet nommé.</li>
+<li><strong>Publication.</strong> La semaine prochaine.</li>
+</ul>
+<h3 id="r-2026-11-13-c3-pourquoi-cette-pyramide-de-noel-tourne-toute-seule">C3. « Pourquoi cette pyramide de Noël tourne toute seule »</h3>
+<p>Version allemande : « Warum sich diese Weihnachtspyramide von selbst dreht »</p>
+<ul>
+<li><strong>Hook exact (0 à 3 s).</strong> Une pyramide de Noël en bois de l'Erzgebirge, bougies allumées, se met à tourner. Voix : « Personne ne la pousse. Pas de moteur, pas de pile. Juste des bougies. »</li>
+<li><strong>Déroulé.</strong><ul>
+<li>0 à 3 s : le hook.</li>
+<li>3 à 20 s : vue éclatée (bougies, plateaux, axe, hélice en haut).</li>
+<li>20 à 40 s : la physique. L'air chauffé par les flammes devient plus léger, monte et pousse les pales inclinées de l'hélice ; on rend le flux d'air visible en particules.</li>
+<li>40 à 55 s : pourquoi l'axe repose sur une pointe (pour presque supprimer le frottement).</li>
+<li>55 à 68 s : l'histoire. Une tradition des Monts Métallifères, en Saxe.</li>
+</ul>
+</li>
+<li><strong>Style visuel.</strong> Bois peint, lumière de bougies, flux d'air en particules dorées, fond de chalet.</li>
+<li><strong>Outils.</strong> Blender 5.3 (drivers pour la rotation, particules pour l'air chaud), Claude Code, ElevenLabs en FR et DE, SFX v3 (crépitement, bois qui grince doucement), FFmpeg.</li>
+<li><strong>Durée cible.</strong> 65 à 70 s.</li>
+<li><strong>Temps de fabrication.</strong> 5 à 6 h (réutilise la lumière et les matériaux du casse-noisette).</li>
+<li><strong>À vérifier avant publication.</strong> L'origine historique des pyramides de Noël ; le principe physique expliqué avec une source.</li>
+<li><strong>Publication.</strong> Fin novembre, en allemand en priorité.</li>
+</ul>
+<h2 id="r-2026-11-13-d-les-nouveaux-outils-et-techniques"><span class="sec-letter" aria-hidden="true">D</span>Les nouveaux outils et techniques</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Outil ou technique</th>
+<th>Apport principal</th>
+<th>Prix</th>
+<th>Local</th>
+<th>Usage commercial</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Vérification d'un dépôt avec Claude Code</td>
+<td>Éviter les faux projets</td>
+<td>Gratuit</td>
+<td>Oui</td>
+<td>Sans objet</td>
+<td>Adopter maintenant</td>
+</tr>
+<tr>
+<td><em>toyxyz-blender-retargeter</em></td>
+<td>Transfert d'animation humanoïde en direct</td>
+<td>Gratuit</td>
+<td>Oui</td>
+<td>GPL-3.0</td>
+<td>Tester pour les personnages</td>
+</tr>
+<tr>
+<td><em>mimvox</em></td>
+<td>Clonage de ta propre voix en local, doublage</td>
+<td>Gratuit</td>
+<td>Oui</td>
+<td>Licence non précisée</td>
+<td>Surveiller</td>
+</tr>
+<tr>
+<td><em>blox-studio</em></td>
+<td>Courts métrages 3D cubiques avec Claude Code et Blender</td>
+<td>Gratuit</td>
+<td>Oui</td>
+<td>MIT</td>
+<td>Surveiller (Minecraft)</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="r-2026-11-13-d1-verifier-un-depot-avant-de-linstaller-avec-claude-code">D1. Vérifier un dépôt avant de l'installer, avec Claude Code</h3>
+<p><span class="chip ok">Confirmé</span> (pratique de sécurité standard)</p>
+<ul>
+<li><strong>Ce que ça permet.</strong> Éviter d'installer un faux skill ou un faux serveur MCP (A1).</li>
+<li><strong>Par rapport à tes habitudes.</strong> Cinq minutes de vérification contre le risque de perdre tes comptes.</li>
+<li><strong>Intégration à Claude Code.</strong> Avant toute installation, demande : « Vérifie ce dépôt sans rien exécuter : date de création du compte et nombre de ses autres dépôts, nombre de contributeurs, historique des commits, présence de fichiers exécutables ou d'archives dans les releases, code obscurci ou téléchargements à l'exécution, commandes d'installation qui récupèrent quelque chose sur Internet. Donne-moi un verdict et les lignes suspectes. »</li>
+<li><strong>Règles simples.</strong> Un compte créé le jour du dépôt, sans autre projet, avec beaucoup d'étoiles d'un coup : n'installe pas. N'exécute jamais un <code>.exe</code>, un <code>.zip</code> ou un script téléchargé depuis une release d'un dépôt inconnu. Installe d'abord dans un dossier isolé.</li>
+</ul>
+<h3 id="r-2026-11-13-d2-trois-depots-utiles-de-la-semaine">D2. Trois dépôts utiles de la semaine</h3>
+<p><span class="chip warn">Émergent</span> : à vérifier avec D1 avant installation.</p>
+<ul>
+<li><a href="https://github.com/toyxyz/toyxyz-blender-retargeter" target="_blank" rel="noopener"><em>toyxyz-blender-retargeter</em></a> (57 étoiles, 12 novembre, GPL-3.0, auteur actif depuis 2023) : transfert en direct d'une animation humanoïde vers ton rig dans Blender. Usage : animer les personnages récurrents (opportunité du 12 novembre) à partir d'une capture de mouvement.</li>
+<li><a href="https://github.com/tarpetos/mimvox" target="_blank" rel="noopener"><em>mimvox</em></a> (22 étoiles, 12 novembre, licence non précisée, « version précoce ») : clonage de ta propre voix en local, plus de 60 langues, doublage d'une vidéo dans une autre langue avec ta voix. Piste pour tes versions allemandes ; à surveiller tant que la licence et la qualité ne sont pas claires.</li>
+<li><a href="https://github.com/ezpeezee/beta-version-blox-studio" target="_blank" rel="noopener"><em>blox-studio</em></a> (3 étoiles, 12 novembre, MIT) : d'une idée ou d'un script à un court métrage 3D cubique 9:16 avec Claude Code et Blender. Piste pour la niche Minecraft, très jeune.</li>
+</ul>
+<h3 id="r-2026-11-13-ecartes-apres-verification">Écartés après vérification</h3>
+<ul>
+<li><strong>Les add-ons « IA pour Blender » publiés par des comptes d'un jour</strong> (A1) : à ne pas installer.</li>
+<li><strong>Runway Praxis-1</strong> (11 novembre, poids ouverts Apache-2.0) : modèle de monde pour la robotique, sans usage pour tes vidéos.</li>
+<li><strong>ArtGen Muse</strong> (10 novembre) : nouveau modèle vidéo d'une plateforme mineure, sans avantage démontré sur Kling ou Seedance.</li>
+</ul>
+<h2 id="r-2026-11-13-e-ce-que-je-devrais-faire-aujourdhui"><span class="sec-letter" aria-hidden="true">E</span>Ce que je devrais faire aujourd'hui</h2>
+<p><strong>Production rapide (2 à 3 h)</strong></p>
+<ol>
+<li>Produire et publier ce soir C1 (vendredi 13) avec le gabarit « Vibe Knowledge ». C'est le test le moins cher et le plus rapide du format.</li>
+</ol>
+<p><strong>Expérimentation (30 min)</strong></p>
+<ol>
+<li>Faire passer à Claude Code la vérification de la section D1 sur tous les skills et serveurs MCP déjà installés sur ton PC.</li>
+</ol>
+<p><strong>Projet à plus fort potentiel (ce week-end)</strong></p>
+<ol>
+<li>Publier « Pourquoi un match de foot dure 90 minutes » le 15 en français et le 16 en allemand.</li>
+<li>Avancer la série « Noël mécanique » : casse-noisette prêt pour le 23 novembre, pyramide (C3) en préparation.</li>
+</ol>
+<h2 id="r-2026-11-13-f-mon-opportunite-numero-1-tester-vibe-knowledge-ce-soir-avec-le-vendredi-13"><span class="sec-letter" aria-hidden="true">F</span>Mon opportunité numéro 1 : tester « Vibe Knowledge » ce soir avec le vendredi 13</h2>
+<p><strong>Pourquoi elle arrive première</strong></p>
+<ul>
+<li>Le format reste en tête du classement (82), et la date du jour offre un sujet de test idéal qui ne reviendra pas avant neuf mois.</li>
+<li>Un test en 2 à 3 h donne une première mesure réelle, au lieu d'estimations.</li>
+<li>Elle n'exige aucun achat ni aucune installation risquée si tu pars du dépôt sous licence MIT vérifié (compte actif depuis 2025).</li>
+</ul>
+<p><strong>Les étapes avec Claude Code</strong></p>
+<ol>
+<li><strong>Vérifier puis récupérer le skill.</strong> Applique D1 à <em>vibe-knowledge</em> (andyhuo520), puis clone-le dans un dossier isolé : <code>git clone https://github.com/andyhuo520/vibe-knowledge ~/outils/vibe-knowledge</code>.</li>
+<li><strong>Produire le script.</strong> « Écris le script de "Pourquoi le vendredi 13 porte malheur", 65 à 70 s, en français puis en allemand. Chaque phrase dans <code>faits.json</code> avec sa source. Ouverture contre-intuitive : les Templiers n'y sont presque pour rien. »</li>
+<li><strong>Rendre.</strong> « Avec le skill, rends la vidéo en 1080 × 1920 : documents d'époque recréés en code, typographie gravée, sous-titres incrustés, voix ElevenLabs. Montre-moi le storyboard avant le rendu. »</li>
+<li><strong>Relire.</strong> Vérifie les sources et la prononciation des noms propres.</li>
+<li><strong>Publier toi-même</strong>, en français ce soir et en allemand ensuite, avec une légende qui contient les mots recherchés (« vendredi 13 origine », « Freitag der 13. Herkunft »).</li>
+<li><strong>Mesurer.</strong> Dans 48 h, note vues, rétention et temps de fabrication dans <code>performances.csv</code>. Ce sera la première donnée réelle de la veille.</li>
+</ol>
+<p><strong>Toujours en attente de ta part</strong> : la configuration de ton PC, l'organisation de tes comptes FR et DE, et tes statistiques récentes.</p>
+<p><a href="https://github.com/dembadia965-source/expresstransport/blob/claude/cool-lamport-e46u76/veille-tiktok/rapports/2026-11-13.md" target="_blank" rel="noopener">Voir ce rapport sur GitHub</a></p>
+</article>
+<article class="report" id="r-2026-11-12" hidden>
 <h1 id="r-2026-11-12-veille-tiktok-ia-jeudi-12-novembre-2026">Veille TikTok IA · jeudi 12 novembre 2026</h1>
 <ul class="toc" aria-label="Sections"><li><a href="#r-2026-11-12-a-les-5-informations-les-plus-importantes-du-jour">A · Infos du jour</a></li><li><a href="#r-2026-11-12-b-top-5-des-opportunites-tiktok">B · Top 5</a></li><li><a href="#r-2026-11-12-c-les-3-meilleures-idees-de-videos-a-tester">C · Idées vidéo</a></li><li><a href="#r-2026-11-12-d-les-nouveaux-outils-et-techniques">D · Outils</a></li><li><a href="#r-2026-11-12-e-ce-que-je-devrais-faire-aujourdhui">E · Aujourd&#x27;hui</a></li><li><a href="#r-2026-11-12-f-mon-opportunite-numero-1-vibe-knowledge-en-francais-et-en-allemand">F · Opportunité n°1</a></li></ul>
 <p>Rapport n°4 · période couverte : 10 au 12 novembre 2026, avec un concept étranger repéré sur les trois dernières semaines. Les sujets déjà traités ne reviennent que s'ils ont évolué.</p>
@@ -2050,9 +2545,9 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 </article>
 <footer class="archive">
   <h2>Archives</h2>
-  <ul><li><a href="#r-2026-11-12">12 novembre 2026</a></li><li><a href="#r-2026-11-11">11 novembre 2026</a></li><li><a href="#r-2026-11-10">10 novembre 2026</a></li><li><a href="#r-2026-11-09">9 novembre 2026</a></li></ul>
+  <ul><li><a href="#r-2026-11-13">13 novembre 2026</a></li><li><a href="#r-2026-11-12">12 novembre 2026</a></li><li><a href="#r-2026-11-11">11 novembre 2026</a></li><li><a href="#r-2026-11-10">10 novembre 2026</a></li><li><a href="#r-2026-11-09">9 novembre 2026</a></li></ul>
   
-  <p>Dernier rapport : jeudi 12 novembre 2026. Rapport produit chaque matin vers 8 h (heure de Paris) par l'agent de veille ; les sources sont citées dans chaque section. Fichiers : <code>veille-tiktok/rapports/</code> dans le dépôt expresstransport.</p>
+  <p>Dernier rapport : vendredi 13 novembre 2026. Rapport produit chaque matin vers 8 h (heure de Paris) par l'agent de veille ; les sources sont citées dans chaque section. Fichiers : <code>veille-tiktok/rapports/</code> dans le dépôt expresstransport.</p>
 </footer>
 </main>
 <script>

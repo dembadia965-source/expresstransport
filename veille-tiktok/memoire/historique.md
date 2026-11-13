@@ -4,6 +4,31 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-13 · rapport n°5
+
+**Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78, Léonides 77). Nouvelle entrée : cybersécurité expliquée en 3D (76, expérimental). Inchangées : Minecraft hiver 71, séries à personnages 68. À surveiller sans note : contenu de fans sous licence Disney (accord du 5 août 2026, pilote US).
+
+**Idées de vidéos proposées**
+
+- C1 « Pourquoi le vendredi 13 porte malheur (et pourquoi les Templiers n'y sont presque pour rien) » : ce soir, sinon 13 août 2027.
+- C2 « Comment un faux logiciel vole tes mots de passe » : semaine prochaine.
+- C3 « Pourquoi cette pyramide de Noël tourne toute seule » (épisode 2 de Noël mécanique) : fin novembre, DE en priorité.
+- Autres titres : code SMS à ne jamais donner ; Wi-Fi public.
+
+**Outils et techniques repérés**
+
+- Sécurité : campagne FakeGit (7 600 faux dépôts en juil. 2026, dont 800 faux skills IA/MCP ; SmartLoader puis StealC ; 17 610 dépôts en oct. 2026). Vague de faux add-ons « Blender AI MCP/copilot » publiés le 11-12 nov. par des comptes d'un jour (racdeufindurch198812, precygtrucqui1981, fumbdendade19718, tiobeharxi1987, hitkeeen, linknimiball1974).
+- Contrôle des comptes des dépôts recommandés : prudence renforcée pour *cutaway*, *claude-animated-shorts*, *anymove*, *manimgx*, *blender-skills* (comptes récents).
+- Nouveaux : *toyxyz-blender-retargeter* (GPL-3.0), *mimvox* (clonage de voix local, licence non précisée), *blox-studio* (MIT).
+- Suivi : *rea-video* 7 629★, *vibe-knowledge-film* 1 291★, *vibe-knowledge* 647★.
+- Écartés : faux add-ons Blender IA, Runway Praxis-1 (robotique), ArtGen Muse.
+
+**Faits de monétisation et de risque notés**
+
+- Commission européenne : conclusions préliminaires du 6 nov. 2026, le flux « Pour toi » enfreindrait le DSA (spirales de contenus) ; amende possible jusqu'à 6 % du CA mondial ; aucune décision finale.
+
+**Événements suivis** : vendredi 13 (prochain : 13 août 2027) ; Serbie–Allemagne le 13 nov. ; résultat d'Italie–France non indexé au moment de la recherche.
+
 ### 2026-11-12 · rapport n°4
 
 **Classement général à cette date** : 1. « Vibe Knowledge » FR/DE (82, nouveau) · 2. Noël mécanique (80) · 3. Vues éclatées en fonctionnement (78) · 4. Économie GTA VI (78, fenêtre jusqu'au 17 nov.) · 5. Léonides (77, publier du 14 au 17 nov.). Hors top 5 : Minecraft édition hiver (71, +2), séries 3D à personnages récurrents (68, nouveau).
