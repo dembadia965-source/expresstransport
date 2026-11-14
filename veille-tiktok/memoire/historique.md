@@ -4,6 +4,28 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-14 · rapport n°6
+
+**Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78, Léonides 77). Nouvelle entrée : archives restaurées et racontées (73). Inchangées : cybersécurité 76, foot et physique 73, Minecraft hiver 71, séries à personnages 68.
+
+**Idées de vidéos proposées**
+
+- C1 « Le film qui aurait fait fuir les spectateurs en 1896 : la vérité » (Lumière, archives restaurées) : semaine prochaine.
+- C2 « Warum Deutschland gegen die Niederlande nie ein normales Spiel ist » (1974, 1988, 1990) : lundi 16 nov. au matin, DE.
+- C3 « Une machine à écrire de 1920 restaurée pièce par pièce, en 3D » (restauration éclatée) : fin novembre.
+- Autres titres : Paris 1900 restauré ; Berlin vers 1900.
+
+**Outils et techniques repérés**
+
+- *tapewake* (MIT, compte créé le 2 nov. : prudence renforcée) : restauration locale de vidéos anciennes.
+- Collection Lumière 1896-1900 de la Bibliothèque du Congrès (libre d'usage aux États-Unis ; vérifier le statut en Europe).
+- *claude-fable-code-video* (MIT, compte depuis 2025) : 209 exemples, 260 prompts, 4 films scientifiques, moteur de musique libre.
+- Sondages dans les commentaires TikTok (mise à jour du 3 sept. 2026, source tierce).
+- Pas de nouvelle vague de faux add-ons Blender depuis le 12 nov. ; LumenAct (compte d'un dépôt) écarté.
+- Écartés : Clip-Forge (réutilisation de vidéos d'autres créateurs), moteur de shorts style Roblox, LumenAct.
+
+**Événements suivis** : Italie 3–1 France (12 nov., première défaite sous Zidane) ; Serbie 1–3 Allemagne (13 nov., Klopp) ; France–Turquie le 15 nov. et Allemagne–Pays-Bas le 16 nov., qualification en jeu.
+
 ### 2026-11-13 · rapport n°5
 
 **Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78, Léonides 77). Nouvelle entrée : cybersécurité expliquée en 3D (76, expérimental). Inchangées : Minecraft hiver 71, séries à personnages 68. À surveiller sans note : contenu de fans sous licence Disney (accord du 5 août 2026, pilote US).
