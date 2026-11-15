@@ -4,6 +4,30 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-15 · rapport n°7 et bilan hebdomadaire n°1
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78 jusqu'au 17 nov., Léonides 77 jusqu'au 18 nov.). Aucune nouvelle entrée. Hors top 5 : cybersécurité 76, archives restaurées 73, foot et physique 73, Minecraft hiver 71, séries à personnages 68. Mis en pause : « Ton année en 3D » (66). Sortie du classement : vision animale (73, coût trop élevé).
+
+**Idées de vidéos proposées**
+
+- C1 « Ce qu'il y a vraiment dans une chasse d'eau » : 19 nov., Journée mondiale des toilettes.
+- C2 « Pourquoi il fait nuit à 16 h 15 à Berlin mais à 17 h 15 à Paris » (longitude, même fuseau) : cette semaine, DE en priorité.
+- C3 « Ce qu'il y a dans une boîte à musique » (Noël mécanique, épisode 3) : début décembre.
+- Plan de publication de la semaine 2 proposé en section F.
+
+**Outils et techniques repérés**
+
+- ElevenLabs Scribe v3 (10 nov. 2026, `scribe_v3`, −27 % d'erreurs selon l'éditeur, horodatages mot par mot non confirmés).
+- *ambientcg-browser* (GPL-3.0, compte depuis 2023) : matériaux et HDRI CC0 dans Blender.
+- Kit *blender-mcp* d'andypratama3 (MIT, compte depuis 2021) autour du MCP officiel.
+- Suivi des étoiles : *rea-video* 8 729, *claude-animated-shorts* 3 432, *line-art-animation* 784 (244 le 10 nov.), *cinematic-skill* 424 (158 le 11 nov.), *vibe-knowledge-film* 1 329, *vibe-knowledge* 663, *anymove* 593, *cutaway* 199, *escapement* 166.
+- Concurrence : skills de vidéo 3D explicative verticale en portugais (*video-3d-explicativo*) et en chinois.
+- Écartés : nouveaux dépôts « Blender MCP » sans historique.
+
+**Événements suivis** : embargo des tests GTA VI toujours non officiel ; France–Turquie le 15 nov. ; Allemagne–Pays-Bas le 16 nov. ; Journée mondiale des toilettes et Beaujolais nouveau le 19 nov. (Beaujolais écarté : sujet alcool).
+
+**Bilan hebdomadaire** : aucune statistique reçue, aucun recalibrage possible. Méthode : classement général, vérification des comptes des dépôts, accès réseau toujours limité (proposition d'environnement en attente d'accord de Demba).
+
 ### 2026-11-14 · rapport n°6
 
 **Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78, Léonides 77). Nouvelle entrée : archives restaurées et racontées (73). Inchangées : cybersécurité 76, foot et physique 73, Minecraft hiver 71, séries à personnages 68.

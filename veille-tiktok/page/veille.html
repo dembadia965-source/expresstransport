@@ -150,12 +150,409 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
   <div class="bar-inner">
     <div class="brand"><span class="rec" aria-hidden="true"></span>Veille TikTok IA <small>FR · DE</small></div>
     <label class="picker" for="report-select">Rapport du
-      <select id="report-select"><option value="r-2026-11-14">samedi 14 novembre 2026</option><option value="r-2026-11-13">vendredi 13 novembre 2026</option><option value="r-2026-11-12">jeudi 12 novembre 2026</option><option value="r-2026-11-11">mercredi 11 novembre 2026</option><option value="r-2026-11-10">mardi 10 novembre 2026</option><option value="r-2026-11-09">lundi 9 novembre 2026</option></select>
+      <select id="report-select"><option value="r-2026-11-15">dimanche 15 novembre 2026</option><option value="r-2026-11-14">samedi 14 novembre 2026</option><option value="r-2026-11-13">vendredi 13 novembre 2026</option><option value="r-2026-11-12">jeudi 12 novembre 2026</option><option value="r-2026-11-11">mercredi 11 novembre 2026</option><option value="r-2026-11-10">mardi 10 novembre 2026</option><option value="r-2026-11-09">lundi 9 novembre 2026</option></select>
     </label>
   </div>
 </header>
 <main class="col">
-<article class="report" id="r-2026-11-14">
+<article class="report" id="r-2026-11-15">
+<h1 id="r-2026-11-15-veille-tiktok-ia-dimanche-15-novembre-2026">Veille TikTok IA · dimanche 15 novembre 2026</h1>
+<ul class="toc" aria-label="Sections"><li><a href="#r-2026-11-15-a-les-5-informations-les-plus-importantes-du-jour">A · Infos du jour</a></li><li><a href="#r-2026-11-15-b-top-5-des-opportunites-tiktok">B · Top 5</a></li><li><a href="#r-2026-11-15-c-les-3-meilleures-idees-de-videos-a-tester">C · Idées vidéo</a></li><li><a href="#r-2026-11-15-d-les-nouveaux-outils-et-techniques">D · Outils</a></li><li><a href="#r-2026-11-15-e-ce-que-je-devrais-faire-aujourdhui">E · Aujourd&#x27;hui</a></li><li><a href="#r-2026-11-15-f-mon-opportunite-numero-1-vibe-knowledge-plan-de-la-semaine-2">F · Opportunité n°1</a></li><li><a href="#r-2026-11-15-g-bilan-hebdomadaire-9-au-15-novembre-2026">G · Bilan hebdo</a></li></ul>
+<p>Rapport n°7 · période couverte : 13 au 15 novembre 2026, puis le premier bilan hebdomadaire (section G, semaine du 9 au 15 novembre).</p>
+<blockquote>
+<p><strong>Méthode et limites.</strong> Recherche web et recherche GitHub (API officielle). La lecture directe reste bloquée pour TikTok, blender.org, Reddit, Tryvolume et 36Kr : les informations de ces sites viennent des résumés du moteur de recherche. Aucune statistique de tes vidéos n'a été transmise cette semaine : le bilan ne peut donc pas recalibrer les notes sur des résultats réels.</p>
+</blockquote>
+<p><strong>Légende.</strong> <span class="chip ok">Confirmé</span> : source officielle ou plusieurs sources concordantes. <span class="chip warn">Émergent</span> : signal récent, peu de recul. <span class="chip exp">Expérimental</span> : idée ou déduction de ma part, non testée. Le niveau de confiance (<span class="chip conf conf-high">Confiance élevée</span>, <span class="chip conf conf-mid">Confiance moyenne</span>, <span class="chip conf conf-low">Confiance faible</span>) porte sur l'exactitude de l'information.</p>
+<h2 id="r-2026-11-15-a-les-5-informations-les-plus-importantes-du-jour"><span class="sec-letter" aria-hidden="true">A</span>Les 5 informations les plus importantes du jour</h2>
+<h3 id="r-2026-11-15-1-elevenlabs-scribe-v3-une-transcription-plus-precise-pour-tes-sous-titres-fr-et-de">1. ElevenLabs Scribe v3 : une transcription plus précise pour tes sous-titres FR et DE</h3>
+<p><span class="chip ok">Confirmé</span> <span class="chip conf conf-mid">Confiance moyenne</span> (chiffres de l'éditeur)</p>
+<ul>
+<li><strong>Le fait.</strong> ElevenLabs a lancé Scribe v3 le 10 novembre 2026 (modèle <code>scribe_v3</code> dans l'API Speech to Text), avec une version Live pour le temps réel. L'éditeur annonce 27 % d'erreurs de mots en moins que la v2 sur 102 langues (mesure interne), la séparation des voix, et des réglages pour la terminologie et l'écriture des nombres. Les horodatages mot par mot existaient dans les versions précédentes ; je n'ai pas trouvé de confirmation explicite pour la v3.</li>
+<li><strong>Pourquoi ça compte.</strong> Des sous-titres calés mot par mot sur ta voix off, en français et en allemand, sans les corriger à la main dans CapCut.</li>
+<li><strong>Ce que tu en tires.</strong> Un script Claude Code qui envoie ta voix off à Scribe v3, récupère les mots et leurs temps, puis génère un fichier de sous-titres incrustés avec FFmpeg. Teste d'abord sur une vidéo pour vérifier les horodatages.</li>
+<li><strong>Sources.</strong> <a href="https://elevenlabs.io/blog/scribe-v3" target="_blank" rel="noopener">Annonce ElevenLabs</a> · <a href="https://letsdatascience.com/news/elevenlabs-launches-scribe-v3-and-v3-live-speech-to-text-mod-82ce234a" target="_blank" rel="noopener">Let's Data Science</a></li>
+</ul>
+<h3 id="r-2026-11-15-2-les-styles-video-faits-en-code-qui-montent-le-plus-vite-cette-semaine-le-trait-anime-et-le-documentaire-en-un-plan">2. Les styles vidéo « faits en code » qui montent le plus vite cette semaine : le trait animé et le documentaire en un plan</h3>
+<p><span class="chip ok">Confirmé</span> pour les chiffres (relevés le 15 novembre) · <span class="chip exp">Expérimental</span> pour l'interprétation</p>
+<ul>
+<li><strong>Le fait.</strong> <em>line-art-animation</em> (personnages au trait animés) est passé de 244 à 784 étoiles en cinq jours ; <em>cinematic-skill</em> (une caméra continue sur photos, cartes et fiches, calée sur la voix) de 158 à 424 en six jours ; <em>rea-video</em> atteint 8 729. Dans le même temps, des skills qui transforment un script en explication 3D verticale apparaissent en portugais et en chinois.</li>
+<li><strong>Pourquoi ça compte.</strong> Les styles documentaires et dessinés, rapides à produire, attirent le plus d'intérêt des créateurs. Les mêmes chaînes de production se déclinent langue par langue : ton avantage en français et en allemand ne durera pas indéfiniment.</li>
+<li><strong>Ce que tu en tires.</strong> Pour ton format « Vibe Knowledge », <em>cinematic-skill</em> est une bonne base de mise en scène (compte actif depuis 2024). Avance vite sur les deux langues.</li>
+<li><strong>Sources.</strong> <a href="https://github.com/JDhruv14/line-art-animation" target="_blank" rel="noopener">line-art-animation</a> · <a href="https://github.com/Moh4696/cinematic-skill" target="_blank" rel="noopener">cinematic-skill</a> · <a href="https://github.com/JuneYaooo/rea-video" target="_blank" rel="noopener">rea-video</a> · <a href="https://github.com/MatheusSBPRO/video-3d-explicativo" target="_blank" rel="noopener">video-3d-explicativo</a></li>
+</ul>
+<h3 id="r-2026-11-15-3-serveurs-mcp-pour-blender-le-bruit-continue-un-kit-serieux-apparait">3. Serveurs MCP pour Blender : le bruit continue, un kit sérieux apparaît</h3>
+<p><span class="chip ok">Confirmé</span> pour l'observation · <span class="chip warn">Émergent</span> pour le kit (non testé)</p>
+<ul>
+<li><strong>Le fait.</strong> De nouveaux dépôts « Blender MCP » sans historique continuent d'apparaître (comptes d'un ou deux dépôts, aucune étoile). En parallèle, un développeur actif depuis 2021 (86 dépôts) publie un kit qui s'appuie sur le pont MCP officiel de Blender : installateur, diagnostic, vérification chiffrée des rigs, guide de rigging.</li>
+<li><strong>Pourquoi ça compte.</strong> La règle reste simple : le serveur officiel d'abord. Un kit qui s'appuie sur lui, publié par un compte établi, peut te faire gagner du temps sur le rigging.</li>
+<li><strong>Ce que tu en tires.</strong> Si tu veux le tester, applique la vérification du 13 novembre, puis demande à Claude Code de lire l'installateur ligne par ligne avant de le lancer.</li>
+<li><strong>Sources.</strong> <a href="https://github.com/andypratama3/blender-mcp" target="_blank" rel="noopener">andypratama3/blender-mcp</a> · recherche API GitHub du 15 novembre 2026</li>
+</ul>
+<h3 id="r-2026-11-15-4-gta-vi-lembargo-des-tests-nest-toujours-pas-officiel">4. GTA VI : l'embargo des tests n'est toujours pas officiel</h3>
+<p><span class="chip warn">Émergent</span> <span class="chip conf conf-low">Confiance faible</span></p>
+<ul>
+<li><strong>Le fait.</strong> Rockstar n'a rien confirmé. Les fuites parlent toujours d'un embargo le 18 novembre, avec des médias qui devraient attendre la sortie ; un journaliste brésilien affirmait plus tôt qu'aucune copie ne serait envoyée.</li>
+<li><strong>Pourquoi ça compte.</strong> Ton plan ne change pas : les épisodes « économie » doivent sortir avant le 18.</li>
+<li><strong>Ce que tu en tires.</strong> Dernier délai mardi 17 pour « GTA VI : où vont tes 80 dollars » et « GTA VI en boîte ».</li>
+<li><strong>Sources.</strong> <a href="https://notebookcheck.net/gta-6-review-embargo-time-leaks-with-some-sites-restricted-until-release-date.1432496.0.html" target="_blank" rel="noopener">Notebookcheck, fuite sur l'embargo</a> · <a href="https://insider-gaming.com/grand-theft-auto-6-review-embargo/" target="_blank" rel="noopener">Insider Gaming</a> · <a href="https://tech-insider.org/gta-6-review-embargo-leak-nov-18-2026/" target="_blank" rel="noopener">Tech Insider</a></li>
+</ul>
+<h3 id="r-2026-11-15-5-les-72-heures-qui-comptent">5. Les 72 heures qui comptent</h3>
+<p><span class="chip ok">Confirmé</span> (calendrier)</p>
+<ul>
+<li><strong>Ce soir, 20 h 45.</strong> France–Turquie à Bordeaux, qualification en jeu après la défaite en Italie : « Pourquoi un match dure 90 minutes » en français, avant le match.</li>
+<li><strong>Lundi.</strong> Allemagne–Pays-Bas à Berlin : « Warum Deutschland gegen die Niederlande nie ein normales Spiel ist » le matin.</li>
+<li><strong>Lundi soir et nuit de mardi.</strong> Pic des Léonides : dernière fenêtre pour la vidéo des étoiles filantes.</li>
+<li><strong>Mardi.</strong> Dernier jour pour les épisodes GTA VI avant les tests attendus.</li>
+<li><strong>Sources.</strong> Rapports des 10, 12 et 14 novembre.</li>
+</ul>
+<h2 id="r-2026-11-15-b-top-5-des-opportunites-tiktok"><span class="sec-letter" aria-hidden="true">B</span>Top 5 des opportunités TikTok</h2>
+<p>Classement général : aucune nouvelle entrée aujourd'hui. Je préfère ne rien ajouter plutôt qu'ajouter une idée faible. Les notes sont des estimations, pas des prédictions.</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Rang</th>
+<th>Opportunité</th>
+<th>Statut</th>
+<th>Score</th>
+<th>Difficulté</th>
+<th>Coût direct par vidéo</th>
+<th>Temps par vidéo</th>
+<th>Monétisation</th>
+<th>Remarque</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>« Vibe Knowledge » en français et en allemand</td>
+<td><span class="chip warn">Émergent</span></td>
+<td><strong>82</strong></td>
+<td>Faible à moyenne</td>
+<td>0 €</td>
+<td>2 à 3 h</td>
+<td>Creator Rewards, croissance</td>
+<td>Aucun test publié pour l'instant</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Noël mécanique</td>
+<td><span class="chip warn">Émergent</span></td>
+<td><strong>80</strong></td>
+<td>Moyenne</td>
+<td>Moins de 2 €</td>
+<td>5 à 7 h, puis 3 à 4 h</td>
+<td>Creator Rewards, sponsors</td>
+<td>Premier épisode le 23 nov.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vues éclatées en fonctionnement</td>
+<td><span class="chip ok">Confirmé</span></td>
+<td><strong>78</strong></td>
+<td>Moyenne à élevée</td>
+<td>Moins de 2 €</td>
+<td>7 à 9 h, puis 4 h</td>
+<td>Creator Rewards, portfolio</td>
+<td>Idée C1 pour le 19 nov.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Économie : GTA VI</td>
+<td><span class="chip warn">Émergent</span></td>
+<td><strong>78</strong></td>
+<td>Moyenne</td>
+<td>Moins de 2 €</td>
+<td>4 à 5 h</td>
+<td>Creator Rewards</td>
+<td>Sort du classement après le 17 nov.</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Science d'actualité : Léonides</td>
+<td><span class="chip ok">Confirmé</span></td>
+<td><strong>77</strong></td>
+<td>Moyenne à élevée</td>
+<td>Moins de 2 €</td>
+<td>5 à 7 h</td>
+<td>Creator Rewards</td>
+<td>Sort du classement après le 18 nov.</td>
+</tr>
+</tbody>
+</table></div>
+<p>Hors du top 5, inchangées : cybersécurité en 3D (76), archives restaurées (73), foot et physique (73), Minecraft hiver (71), séries à personnages (68). Mercredi, quand GTA VI et les Léonides sortiront du classement, la cybersécurité et les archives restaurées y entreront.</p>
+<h2 id="r-2026-11-15-c-les-3-meilleures-idees-de-videos-a-tester"><span class="sec-letter" aria-hidden="true">C</span>Les 3 meilleures idées de vidéos à tester</h2>
+<h3 id="r-2026-11-15-c1-ce-quil-y-a-vraiment-dans-une-chasse-deau-pour-la-journee-mondiale-des-toilettes">C1. « Ce qu'il y a vraiment dans une chasse d'eau », pour la Journée mondiale des toilettes</h3>
+<p>Version allemande : « Was wirklich in einem Spülkasten steckt »</p>
+<ul>
+<li><strong>Hook exact (0 à 3 s).</strong> Un réservoir de chasse d'eau devient transparent ; on appuie, l'eau tourbillonne. Voix : « Tu l'utilises plusieurs fois par jour. Tu ne sais pas comment elle marche. »</li>
+<li><strong>Déroulé.</strong><ul>
+<li>0 à 3 s : le hook.</li>
+<li>3 à 18 s : vue éclatée du réservoir (flotteur, robinet d'arrivée, mécanisme de chasse, joint).</li>
+<li>18 à 38 s : la chasse. Le bouton soulève la cloche, l'eau tombe d'un coup dans la cuvette.</li>
+<li>38 à 55 s : le remplissage. Le flotteur monte avec l'eau et ferme le robinet tout seul, sans électronique.</li>
+<li>55 à 68 s : le lien avec la Journée mondiale des toilettes (19 novembre) et une question : « Simple bouton ou double bouton chez toi ? » (sondage en commentaire).</li>
+</ul>
+</li>
+<li><strong>Style visuel.</strong> Céramique blanche, eau en simulation fluide ou stylisée, coupes transparentes, palette claire et propre.</li>
+<li><strong>Outils.</strong> Blender 5.3 (vue éclatée, drivers pour le flotteur, eau stylisée), Claude Code, ElevenLabs en FR et DE, SFX v3 (chasse, remplissage), FFmpeg.</li>
+<li><strong>Durée cible.</strong> 65 à 68 s.</li>
+<li><strong>Temps de fabrication.</strong> 6 à 8 h (la simulation d'eau est longue ; une eau stylisée suffit).</li>
+<li><strong>À vérifier avant publication.</strong> Le fonctionnement exact d'un mécanisme courant en France et en Allemagne ; la date et le thème 2026 de la Journée mondiale des toilettes (ONU).</li>
+<li><strong>Publication.</strong> Le 19 novembre, sinon dans la semaine : le sujet reste cherché toute l'année.</li>
+</ul>
+<h3 id="r-2026-11-15-c2-pourquoi-il-fait-nuit-a-16-h-15-a-berlin-mais-a-17-h-15-a-paris">C2. « Pourquoi il fait nuit à 16 h 15 à Berlin mais à 17 h 15 à Paris »</h3>
+<p>Version allemande en priorité : « Warum es in Berlin um 16:15 Uhr dunkel wird, in Paris aber erst um 17:15 Uhr »</p>
+<ul>
+<li><strong>Hook exact (0 à 3 s).</strong> Écran partagé : Berlin déjà dans la nuit, Paris encore au crépuscule, deux horloges affichent la même heure. Voix : « Même heure, même fuseau. Et pourtant, une heure de jour en plus à Paris. »</li>
+<li><strong>Déroulé.</strong><ul>
+<li>0 à 3 s : le hook.</li>
+<li>3 à 20 s : un globe 3D. Berlin est à environ 13° de longitude est, Paris à 2° : le Soleil passe au-dessus de Paris environ 44 minutes après Berlin.</li>
+<li>20 à 38 s : le fuseau horaire. Les deux villes vivent à la même heure légale, alors le décalage se voit sur l'horloge.</li>
+<li>38 à 55 s : la latitude. Berlin est plus au nord : en hiver, ses journées sont aussi plus courtes.</li>
+<li>55 à 68 s : la chute. « Et ça empire jusqu'au 21 décembre. Tu préfères la nuit à 16 h ou le soleil qui se lève tard ? »</li>
+</ul>
+</li>
+<li><strong>Style visuel.</strong> Globe 3D épuré, terminateur jour-nuit qui glisse, deux horloges en surimpression.</li>
+<li><strong>Outils.</strong> Blender (globe et lumière directionnelle) ou le gabarit « Vibe Knowledge » pour une version 2D, Claude Code (calcul des heures), ElevenLabs en DE et FR, FFmpeg.</li>
+<li><strong>Durée cible.</strong> 65 à 68 s.</li>
+<li><strong>Temps de fabrication.</strong> 3 à 5 h.</li>
+<li><strong>À vérifier avant publication.</strong> Les heures de coucher du soleil exactes du jour de publication pour les deux villes (timeanddate) ; arrondir sans tricher.</li>
+<li><strong>Publication.</strong> Cette semaine ; le sujet reste valable jusqu'au solstice.</li>
+</ul>
+<h3 id="r-2026-11-15-c3-ce-quil-y-a-dans-une-boite-a-musique">C3. « Ce qu'il y a dans une boîte à musique »</h3>
+<p>Version allemande : « Was in einer Spieluhr steckt »</p>
+<ul>
+<li><strong>Hook exact (0 à 3 s).</strong> Une boîte à musique s'ouvre, une mélodie de Noël commence ; la caméra traverse le couvercle. Voix : « Pas d'électricité, pas de haut-parleur. Juste un ressort, un cylindre et un peigne. »</li>
+<li><strong>Déroulé.</strong><ul>
+<li>0 à 3 s : le hook.</li>
+<li>3 à 18 s : vue éclatée (ressort, cylindre à picots, peigne d'acier, régulateur).</li>
+<li>18 à 38 s : le son. Chaque picot soulève une dent du peigne ; plus la dent est courte, plus la note est aiguë.</li>
+<li>38 à 55 s : la vitesse. Un petit régulateur à ailettes freine contre l'air pour que la mélodie ne s'emballe pas.</li>
+<li>55 à 68 s : la boucle, retour sur la mélodie.</li>
+</ul>
+</li>
+<li><strong>Style visuel.</strong> Bois verni, laiton, lumière chaude de Noël, gros plans macro sur le peigne.</li>
+<li><strong>Outils.</strong> Blender 5.3 (drivers pour le cylindre et le régulateur), Claude Code (placement des picots selon une vraie partition libre de droits), ElevenLabs, SFX v3, FFmpeg.</li>
+<li><strong>Durée cible.</strong> 65 à 70 s.</li>
+<li><strong>Temps de fabrication.</strong> 7 à 9 h (troisième épisode de « Noël mécanique »).</li>
+<li><strong>À vérifier avant publication.</strong> Une mélodie du domaine public ; le fonctionnement du régulateur.</li>
+<li><strong>Publication.</strong> Début décembre.</li>
+</ul>
+<h2 id="r-2026-11-15-d-les-nouveaux-outils-et-techniques"><span class="sec-letter" aria-hidden="true">D</span>Les nouveaux outils et techniques</h2>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Outil</th>
+<th>Apport principal</th>
+<th>Prix</th>
+<th>Local</th>
+<th>Usage commercial</th>
+<th>Verdict</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ElevenLabs Scribe v3</td>
+<td>Transcription précise pour les sous-titres</td>
+<td>Crédits de ton abonnement</td>
+<td>Non</td>
+<td>Selon ton offre</td>
+<td>Tester</td>
+</tr>
+<tr>
+<td><em>ambientcg-browser</em></td>
+<td>Matériaux et HDRI CC0 depuis Blender</td>
+<td>Gratuit</td>
+<td>Oui</td>
+<td>Extension GPL-3.0 ; contenus CC0</td>
+<td>Tester</td>
+</tr>
+<tr>
+<td>Kit <em>blender-mcp</em> (andypratama3)</td>
+<td>Installation et diagnostic du MCP officiel, aide au rigging</td>
+<td>Gratuit</td>
+<td>Oui</td>
+<td>MIT</td>
+<td>Tester après vérification</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="r-2026-11-15-d1-ambientcg-browser-les-materiaux-libres-dambientcg-directement-dans-blender">D1. <em>ambientcg-browser</em> : les matériaux libres d'ambientCG directement dans Blender</h3>
+<p><span class="chip warn">Émergent</span> <span class="chip conf conf-mid">Confiance moyenne</span> (extension non officielle, compte actif depuis 2023)</p>
+<ul>
+<li><strong>Ce qu'il permet.</strong> Chercher et ajouter depuis la barre latérale de Blender les matériaux PBR et les éclairages HDRI d'ambientCG, publiés sous licence CC0.</li>
+<li><strong>Par rapport à tes outils.</strong> Moins d'allers-retours sur le web, et des textures utilisables commercialement sans attribution.</li>
+<li><strong>Prix, local, licence.</strong> Gratuit ; l'extension est sous GPL-3.0, les contenus ambientCG sous CC0.</li>
+<li><strong>Intégration à Claude Code.</strong> Après installation, Claude Code peut te proposer une liste de matériaux à appliquer selon la scène (bois verni, laiton, céramique) ; le choix final reste le tien.</li>
+<li><strong>Exemple TikTok.</strong> Le bois et le laiton de la boîte à musique (C3).</li>
+<li><strong>Source.</strong> <a href="https://github.com/jsiovn/ambientcg-browser" target="_blank" rel="noopener">ambientcg-browser</a></li>
+</ul>
+<h3 id="r-2026-11-15-ecartes-apres-verification">Écartés après vérification</h3>
+<ul>
+<li><strong>Nouveaux dépôts « Blender MCP » sans historique</strong> (14 et 15 novembre) : comptes d'un ou deux dépôts, aucune étoile.</li>
+</ul>
+<h2 id="r-2026-11-15-e-ce-que-je-devrais-faire-aujourdhui"><span class="sec-letter" aria-hidden="true">E</span>Ce que je devrais faire aujourd'hui</h2>
+<p><strong>Production rapide (2 à 3 h)</strong></p>
+<ol>
+<li>Publier « Pourquoi un match dure 90 minutes » en français avant 20 h 45.</li>
+<li>Finaliser le derby Allemagne–Pays-Bas pour lundi matin.</li>
+</ol>
+<p><strong>Expérimentation (1 h)</strong></p>
+<ol>
+<li>Tester Scribe v3 sur une voix off existante et vérifier si les horodatages mot par mot sont fournis.</li>
+</ol>
+<p><strong>Projet à plus fort potentiel (cette semaine)</strong></p>
+<ol>
+<li>Suivre le plan de la semaine 2 (section F) et noter chaque publication dans <code>performances.csv</code>.</li>
+</ol>
+<h2 id="r-2026-11-15-f-mon-opportunite-numero-1-vibe-knowledge-plan-de-la-semaine-2"><span class="sec-letter" aria-hidden="true">F</span>Mon opportunité numéro 1 : « Vibe Knowledge », plan de la semaine 2</h2>
+<p><strong>Pourquoi elle arrive première</strong></p>
+<ul>
+<li>Elle reste en tête depuis quatre jours, et c'est la seule opportunité qui peut produire une donnée réelle cette semaine avec peu de temps investi.</li>
+<li>La semaine du 16 au 22 novembre concentre des sujets forts (foot, Léonides, GTA VI, coucher du soleil, Journée des toilettes) qu'elle peut couvrir vite.</li>
+</ul>
+<p><strong>Plan de publication proposé</strong> (tu décides et tu publies)</p>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Jour</th>
+<th>Vidéo</th>
+<th>Langue</th>
+<th>Format</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Dim. 15</td>
+<td>Pourquoi un match dure 90 minutes</td>
+<td>FR</td>
+<td>Vibe Knowledge</td>
+</tr>
+<tr>
+<td>Lun. 16</td>
+<td>Allemagne–Pays-Bas, jamais un match normal</td>
+<td>DE</td>
+<td>Vibe Knowledge</td>
+</tr>
+<tr>
+<td>Mar. 17</td>
+<td>Étoiles filantes ou GTA VI en boîte</td>
+<td>FR et DE</td>
+<td>3D ou Vibe Knowledge</td>
+</tr>
+<tr>
+<td>Jeu. 19</td>
+<td>Ce qu'il y a vraiment dans une chasse d'eau</td>
+<td>FR et DE</td>
+<td>Vue éclatée 3D</td>
+</tr>
+<tr>
+<td>Sam. 21</td>
+<td>Pourquoi il fait nuit à 16 h 15 à Berlin</td>
+<td>DE et FR</td>
+<td>Vibe Knowledge ou 3D</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Les étapes avec Claude Code</strong></p>
+<ol>
+<li><strong>Préparer la semaine en une fois.</strong> « Pour ces cinq vidéos, crée un dossier par vidéo avec <code>faits.json</code> (une source par affirmation), le script en FR et en DE, et une liste de bruitages. Signale les faits incertains. »</li>
+<li><strong>Relire les faits</strong> en une seule séance de 30 minutes.</li>
+<li><strong>Produire</strong> dans l'ordre du calendrier, avec le gabarit « Vibe Knowledge » pour les sujets d'histoire et Blender pour la chasse d'eau.</li>
+<li><strong>Sous-titrer</strong> avec Scribe v3 si le test d'aujourd'hui est concluant.</li>
+<li><strong>Mesurer.</strong> Après chaque publication, ajoute une ligne à <code>performances.csv</code> (vues à 48 h, rétention moyenne, temps de fabrication). Dimanche prochain, le bilan pourra enfin comparer le format « Vibe Knowledge » et la 3D.</li>
+</ol>
+<h2 id="r-2026-11-15-g-bilan-hebdomadaire-9-au-15-novembre-2026"><span class="sec-letter" aria-hidden="true">G</span>Bilan hebdomadaire (9 au 15 novembre 2026)</h2>
+<h3 id="r-2026-11-15-les-opportunites-les-plus-interessantes-de-la-semaine">Les opportunités les plus intéressantes de la semaine</h3>
+<div class="table-wrap"><table>
+<thead>
+<tr>
+<th>Opportunité</th>
+<th>Première apparition</th>
+<th>Score</th>
+<th>Pourquoi elle compte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>« Vibe Knowledge » FR et DE</td>
+<td>12 nov.</td>
+<td>82</td>
+<td>Concept étranger prouvé à grande échelle (un hashtag à 1,17 milliard de vues), faible coût, aucun équivalent trouvé en FR et DE</td>
+</tr>
+<tr>
+<td>Noël mécanique</td>
+<td>11 nov.</td>
+<td>80</td>
+<td>Ton meilleur format appliqué au plus gros pic d'attention de l'année, avec un avantage culturel allemand</td>
+</tr>
+<tr>
+<td>Vues éclatées en fonctionnement</td>
+<td>9 nov. (80), 10 nov. (78)</td>
+<td>78</td>
+<td>Format confirmé, prolonge ton savoir-faire ; concurrence en hausse avec les outils automatiques</td>
+</tr>
+<tr>
+<td>Cybersécurité en 3D</td>
+<td>13 nov.</td>
+<td>76</td>
+<td>Nouveau marché plus rémunérateur (affiliation), public adulte</td>
+</tr>
+<tr>
+<td>Archives restaurées</td>
+<td>14 nov.</td>
+<td>73</td>
+<td>Ton univers restauration appliqué à l'histoire, droits à surveiller</td>
+</tr>
+</tbody>
+</table></div>
+<h3 id="r-2026-11-15-tendances-confirmees">Tendances confirmées</h3>
+<ul>
+<li><strong>Blender 5.3</strong> est sorti le 10 novembre : Gaussian splats natifs, débruiteur DLSS 4.5, dispersion dans Cycles, Vulkan par défaut.</li>
+<li><strong>La vidéo fabriquée par agent</strong> décolle : <em>rea-video</em> est passé de 4 794 à 8 729 étoiles en six jours, <em>claude-animated-shorts</em> de 2 464 à 3 432.</li>
+<li><strong>« Vibe Knowledge » en Chine</strong> : deux articles de 36Kr et plus de dix dépôts qui reproduisent le style.</li>
+<li><strong>La saison de Noël a commencé sur TikTok</strong>, et la campagne TikTok Shop du Black Friday court du 11 au 30 novembre (États-Unis).</li>
+<li><strong>GTA VI</strong> sort le 19 novembre, pré-chargement confirmé le 12.</li>
+<li><strong>Sécurité</strong> : la campagne FakeGit (faux skills IA et serveurs MCP) est documentée, et une vague de faux add-ons Blender est apparue les 11 et 12 novembre.</li>
+</ul>
+<h3 id="r-2026-11-15-signaux-non-confirmes-ou-a-revoir">Signaux non confirmés ou à revoir</h3>
+<ul>
+<li><strong>Le transfert de « Vibe Knowledge » vers la France et l'Allemagne</strong> : aucune preuve pour l'instant. Seul un test peut le dire.</li>
+<li><strong>La baisse des revenus du Creator Rewards</strong> : témoignages surtout américains, aucune donnée FR ou DE.</li>
+<li><strong>L'embargo des tests de GTA VI le 18 novembre</strong> : toujours une fuite.</li>
+<li><strong>Le prix de Kling 4.0</strong> : jamais confirmé officiellement.</li>
+<li><strong>Eleven v4</strong> : noté comme non vérifié le 9 novembre, confirmé le 10.</li>
+</ul>
+<h3 id="r-2026-11-15-les-outils-a-adopter">Les outils à adopter</h3>
+<ol>
+<li><strong>Le serveur MCP officiel de Blender</strong>, et seulement lui pour piloter Blender.</li>
+<li><strong>La vérification de dépôt avant installation</strong> (rapport du 13 novembre), à chaque fois.</li>
+<li><strong>Blender 5.3</strong>, installé à côté de ta version de production, après le contrôle des add-ons.</li>
+<li><strong>ElevenLabs SFX v3</strong> pour les bruitages et <strong>Scribe v3</strong> pour les sous-titres, sous réserve de test.</li>
+<li><strong>Le skill <em>vibe-knowledge</em></strong> (licence MIT, compte actif depuis 2025) comme base du format rapide.</li>
+</ol>
+<h3 id="r-2026-11-15-les-experiences-a-arreter-ou-a-ecarter">Les expériences à arrêter ou à écarter</h3>
+<ul>
+<li><strong>Pika H3 Flex et ses dérivés</strong> : licence incompatible avec un usage commercial en Europe.</li>
+<li><strong>Sora</strong> : fermé.</li>
+<li><strong>Claude Motion</strong> : réservé aux offres Team et Enterprise.</li>
+<li><strong>L'ancien <em>blender-mcp</em> communautaire non mis à jour</strong> : failles connues.</li>
+<li><strong>Les outils de publication automatique et de « réplication » de vidéos virales</strong> : contraires à ta règle de validation et au critère d'originalité.</li>
+<li><strong>« Ton année en 3D »</strong> (66) : je le mets en pause faute de signal de demande.</li>
+<li><strong>La vision animale</strong> (73, 9 novembre) : sortie du classement, coût de production trop élevé par rapport aux autres options ; à reprendre si tu trouves des modèles d'animaux sous licence.</li>
+</ul>
+<h3 id="r-2026-11-15-ce-que-disent-tes-statistiques">Ce que disent tes statistiques</h3>
+<p>Aucune donnée n'a été transmise cette semaine. Je ne peux donc ni confirmer ni corriger les notes. Pour que le bilan de dimanche prochain soit utile, il suffit d'une ligne par vidéo dans <code>veille-tiktok/memoire/performances.csv</code> : date, titre, langue, vues à 48 h, rétention moyenne, temps de fabrication. Les revenus sont un plus.</p>
+<h3 id="r-2026-11-15-ajustements-de-la-methode">Ajustements de la méthode</h3>
+<ul>
+<li><strong>Classement général.</strong> Depuis le 12 novembre, le top 5 reprend les meilleures opportunités de tous les rapports au lieu de proposer cinq nouveautés chaque jour.</li>
+<li><strong>Hygiène des dépôts.</strong> Chaque dépôt recommandé est désormais vérifié (ancienneté et activité du compte) avant d'apparaître dans un rapport.</li>
+<li><strong>Accès réseau.</strong> La lecture directe de TikTok, de blender.org et de Reddit reste bloquée. Si tu veux des sources primaires (Creative Center, notes de version officielles), je peux te proposer un environnement qui autorise ces sites, à condition que tu valides la demande.</li>
+<li><strong>Incident.</strong> Le passage du 10 novembre a été interrompu par un redémarrage technique ; il a été rattrapé le 11.</li>
+</ul>
+<p><a href="https://github.com/dembadia965-source/expresstransport/blob/claude/cool-lamport-e46u76/veille-tiktok/rapports/2026-11-15.md" target="_blank" rel="noopener">Voir ce rapport sur GitHub</a></p>
+</article>
+<article class="report" id="r-2026-11-14" hidden>
 <h1 id="r-2026-11-14-veille-tiktok-ia-samedi-14-novembre-2026">Veille TikTok IA · samedi 14 novembre 2026</h1>
 <ul class="toc" aria-label="Sections"><li><a href="#r-2026-11-14-a-les-5-informations-les-plus-importantes-du-jour">A · Infos du jour</a></li><li><a href="#r-2026-11-14-b-top-5-des-opportunites-tiktok">B · Top 5</a></li><li><a href="#r-2026-11-14-c-les-3-meilleures-idees-de-videos-a-tester">C · Idées vidéo</a></li><li><a href="#r-2026-11-14-d-les-nouveaux-outils-et-techniques">D · Outils</a></li><li><a href="#r-2026-11-14-e-ce-que-je-devrais-faire-aujourdhui">E · Aujourd&#x27;hui</a></li><li><a href="#r-2026-11-14-f-mon-opportunite-numero-1-vibe-knowledge-version-week-end-de-foot">F · Opportunité n°1</a></li></ul>
 <p>Rapport n°6 · période couverte : 12 au 14 novembre 2026. Demain dimanche, le rapport inclura le premier bilan hebdomadaire.</p>
@@ -2924,9 +3321,9 @@ a:focus-visible, select:focus-visible, summary:focus-visible { outline: 2px soli
 </article>
 <footer class="archive">
   <h2>Archives</h2>
-  <ul><li><a href="#r-2026-11-14">14 novembre 2026</a></li><li><a href="#r-2026-11-13">13 novembre 2026</a></li><li><a href="#r-2026-11-12">12 novembre 2026</a></li><li><a href="#r-2026-11-11">11 novembre 2026</a></li><li><a href="#r-2026-11-10">10 novembre 2026</a></li><li><a href="#r-2026-11-09">9 novembre 2026</a></li></ul>
+  <ul><li><a href="#r-2026-11-15">15 novembre 2026</a></li><li><a href="#r-2026-11-14">14 novembre 2026</a></li><li><a href="#r-2026-11-13">13 novembre 2026</a></li><li><a href="#r-2026-11-12">12 novembre 2026</a></li><li><a href="#r-2026-11-11">11 novembre 2026</a></li><li><a href="#r-2026-11-10">10 novembre 2026</a></li><li><a href="#r-2026-11-09">9 novembre 2026</a></li></ul>
   
-  <p>Dernier rapport : samedi 14 novembre 2026. Rapport produit chaque matin vers 8 h (heure de Paris) par l'agent de veille ; les sources sont citées dans chaque section. Fichiers : <code>veille-tiktok/rapports/</code> dans le dépôt expresstransport.</p>
+  <p>Dernier rapport : dimanche 15 novembre 2026. Rapport produit chaque matin vers 8 h (heure de Paris) par l'agent de veille ; les sources sont citées dans chaque section. Fichiers : <code>veille-tiktok/rapports/</code> dans le dépôt expresstransport.</p>
 </footer>
 </main>
 <script>
