@@ -4,6 +4,28 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-16 · rapport n°8
+
+**Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78 et Léonides 77 jusqu'au 17-18 nov.). Mouvements : foot et physique 73 → 66 (plus de grand match avant mars 2027). Nouvelle entrée : satisfaisant 3D éducatif (69 ; vidéos souvent < 1 min donc hors Creator Rewards si non transformées). Inchangées : cybersécurité 76, archives restaurées 73, Minecraft hiver 71, séries à personnages 68.
+
+**Idées de vidéos proposées**
+
+- C1 « Warum die Niederlande in Orange spielen » / l'orange des Pays-Bas : avant Allemagne–Pays-Bas le 16 nov. (DE).
+- C2 « On coupe 10 objets du plus mou au plus dur » (satisfaisant éducatif, échelle de Mohs) : cette semaine.
+- C3 « Pourquoi une ampoule grillée éteignait toute la guirlande » (Noël mécanique, épisode 4) : début décembre.
+- Autres titres : ce qui fond en premier à 100 °C ; verre trempé.
+
+**Outils et techniques repérés**
+
+- TikTok One : niveau « Premier Creative Partner » (10 nov., seuils non publiés) ; recherche IA de créateurs et paiement sous 30 jours sans frais (Creators Summit) ; accès créateur sur invitation ou candidature (≥ 1 000 abonnés en FR/DE selon une agence partenaire).
+- *castle-cinematic* (Leonxlnx, MIT) : film 4K de 45 s entièrement procédural dans Blender.
+- World Labs Atlas : ouverture au public le 12 nov. selon une source, accès anticipé selon d'autres ; prix et licence non publiés.
+- Skill de découpe « anti-stress » en 3D (Chine) ; studios d'animation tout-en-un (treemation, video-short-animation, Stickman-animation-skill).
+- Suivi : *rea-video* 9 344★, *line-art-animation* 855★, *cinematic-skill* 533★, *vibe-knowledge* 673★.
+- Écartés : GTAClipper, clippy, OmniClip (découpe de contenus tiers), skillify, blender-secure-mcp (sans licence), prompts MiniMax H3 pour TikTok Shop.
+
+**Événements suivis** : France 2–1 Turquie (15 nov.), Bleus qualifiés et premiers du groupe ; Allemagne–Pays-Bas le 16 nov. ; quarts de finale fin mars 2027 ; TikTok Awards UK le 1er déc.
+
 ### 2026-11-15 · rapport n°7 et bilan hebdomadaire n°1
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78 jusqu'au 17 nov., Léonides 77 jusqu'au 18 nov.). Aucune nouvelle entrée. Hors top 5 : cybersécurité 76, archives restaurées 73, foot et physique 73, Minecraft hiver 71, séries à personnages 68. Mis en pause : « Ton année en 3D » (66). Sortie du classement : vision animale (73, coût trop élevé).
