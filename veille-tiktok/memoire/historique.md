@@ -4,6 +4,30 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-17 · rapport n°9
+
+**Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Vues éclatées 78 · 4. Économie GTA VI 78 (prolongée jusqu'au 22 nov.) · 5. Cybersécurité 76 (entre). Les Léonides (77) sortent après la nuit du 17. Nouvelle entrée : musique et billes 3D (70). Inchangées : archives restaurées 73, Minecraft hiver 71, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
+
+**Idées de vidéos proposées**
+
+- C1 « 210 Go : combien de temps pour télécharger GTA VI chez toi ? » (8 Mbit/s ≈ 58 h ; 20 ≈ 23 h ; 100 ≈ 4 h 40 ; 1 Gbit/s ≈ 30 min) : 18-19 nov.
+- C2 « Une machine à billes joue Douce nuit / Stille Nacht » (mélodie de 1818, domaine public, sons synthétisés) : mi-décembre, DE en priorité.
+- C3 « Warum ein 5:0 zwischen Topteams so selten ist » (Poisson 1,5 vs 1,0 : 5–0 exact ≈ 0,5 %, écart ≥ 5 < 1 %) : 17-18 nov., DE.
+- Autres titres : Jingle Bells avec 200 billes ; Hymne à la joie.
+
+**Outils et techniques repérés**
+
+- *motlab* (staryone, MIT, compte depuis 2022) : vidéo en code via WebCodecs, visionneuse de relecture.
+- *code-video-scene-tool-picker* (compte récent) : règle « l'outil le plus simple par scène » adoptée sans installation.
+- *guiji-marble-video* (sans licence) : billes 3D synchronisées sur la musique dans Blender.
+- Un dépôt de shorts 3D vu le 16 nov. (TheFlatStory, DadStay) a disparu de GitHub.
+- Suivi : *rea-video* 9 839★, *line-art-animation* 934★, *cinematic-skill* 664★, *vibe-knowledge* 692★.
+- Écartés : A2E AI (plateforme payante, échange de visages), skills Buildary (crédits), guiji-marble-video (sans licence).
+
+**Faits de monétisation notés** : estimation RPM Creator Rewards 0,36–1,04 $ / 1 000 vues qualifiées (Stack Influence, données déclarées) ; tarifs des partenariats +23 % sur un an (étude citée par le même éditeur).
+
+**Événements suivis** : Allemagne 5–0 Pays-Bas (16 nov.), Allemagne première du groupe ; GTA VI : sortie à minuit heure locale le 19 nov., mises à jour du 13 et 16 nov., 30 i/s, ~80 h d'histoire, 210 Go sur PS5 (non officiel), code en boîte présenté comme confirmé ; aucun test publié au 17 nov.
+
 ### 2026-11-16 · rapport n°8
 
 **Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, vues éclatées 78, économie GTA VI 78 et Léonides 77 jusqu'au 17-18 nov.). Mouvements : foot et physique 73 → 66 (plus de grand match avant mars 2027). Nouvelle entrée : satisfaisant 3D éducatif (69 ; vidéos souvent < 1 min donc hors Creator Rewards si non transformées). Inchangées : cybersécurité 76, archives restaurées 73, Minecraft hiver 71, séries à personnages 68.
