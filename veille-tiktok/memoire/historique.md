@@ -4,6 +4,30 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-18 · rapport n°10
+
+**Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Vues éclatées 78 · 4. Économie GTA VI 78 (jusqu'au 22 nov.) · 5. Coulisses IA 77 (nouvelle). Sort du top 5 : cybersécurité 76. Inchangées : archives restaurées 73, Minecraft hiver 71, musique et billes 70, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
+
+**Idées de vidéos proposées**
+
+- C1 « J'ai demandé à Claude de construire une montre en 3D. Voilà ce qui s'est passé. » (Coulisses IA) : après la vidéo principale.
+- C2 « GTA VI : les notes en 60 secondes » : le 18 nov. au soir, après les tests.
+- C3 « Pourquoi un flocon de neige a toujours six branches » (Nakaya, −15 °C) : début décembre.
+- Autres titres : voix off en allemand ; une vidéo TikTok en 3 heures.
+
+**Outils et techniques repérés**
+
+- Programme d'affiliation ElevenLabs (Creator Affiliate Program) : 22 % la première année (11 % Business), via PartnerStack, conditions du 10 juin 2026.
+- *final-phase-lite* (MIT, compte depuis 2025) : relecture et annotation de vidéos pour Claude Code.
+- *lectern* (MIT, compte depuis 2016), *tinythree-blender* (MIT, compte depuis 2021), *dancing-notes-cosmic-workbuddy* (MIT, compte récent).
+- Vue éclatée 3D en indonésien (*tahu-cara-3d-explanation*), après le portugais et le chinois.
+- Suivi : *rea-video* 10 405★ (passe 10 000), *line-art-animation* 998★, *cinematic-skill* 748★, *vibe-knowledge* 709★, *motlab* 175★.
+- Écartés : viral-hook-reels-skill, video-creator (images Pexels), lots de skills sans licence.
+
+**Faits de monétisation et de risque notés** : TikTok a ajouté début novembre des outils de détection du droit d'auteur et des contrefaçons pour les marques.
+
+**Événements suivis** : tests de GTA VI attendus le 18 nov. vers 12-13 h (fuite) ; note utilisateurs Metacritic de 6,5 apparue puis retirée le 16 nov. ; records : GTA IV 98, GTA V et RDR2 97.
+
 ### 2026-11-17 · rapport n°9
 
 **Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Vues éclatées 78 · 4. Économie GTA VI 78 (prolongée jusqu'au 22 nov.) · 5. Cybersécurité 76 (entre). Les Léonides (77) sortent après la nuit du 17. Nouvelle entrée : musique et billes 3D (70). Inchangées : archives restaurées 73, Minecraft hiver 71, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
