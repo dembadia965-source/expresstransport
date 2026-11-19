@@ -4,6 +4,26 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-19 · rapport n°11
+
+**Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Cybersécurité 78 (+2, statut émergent) · 4. Économie GTA VI 78 (jusqu'au 22 nov.) · 5. Vues éclatées 77 (−1, concurrence). Coulisses IA 77 sort du top 5 à égalité. Inchangées : archives restaurées 73, Minecraft hiver 71, musique et billes 70, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
+
+**Idées de vidéos proposées**
+
+- C1 « Le faux GTA VI pour PC : voilà ce qui arrive si tu le télécharges » (cybersécurité) : 19-20 nov.
+- C2 « 99 sur Metacritic : qu'est-ce que ça veut dire vraiment ? » (Vibe Knowledge) : 19-20 nov.
+- C3 « Les 3 arnaques du Black Friday, expliquées en 3D » (Douane, DGCCRF, 33700, SignalConso ; Verbraucherzentrale pour DE) : 24-26 nov.
+
+**Outils et techniques repérés**
+
+- *SketchBlend* (GPL-3.0, compte de févr. 2026) : rendus esquisse, encre, trame.
+- *ogive-watch-film* : film Blender de 32 s d'une montre squelette à tourbillon qui s'assemble, entièrement en Python écrit par un assistant de code (concurrence pour l'idée « montre »).
+- *cloud-blender-skills* (patch-gg, 29 skills, Blender dans le cloud possible).
+- Suivi : *rea-video* 10 797★, *line-art-animation* 1 039★, *cinematic-skill* 785★, *vibe-knowledge* 718★, *motlab* 196★, *final-phase-lite* 31★.
+- Écartés : faux « GTA VI PC » (gta6recomp, gta6-uefi, gta6-dlss5), outils de découpe de streams GTA VI, skills sans licence.
+
+**Événements suivis** : GTA VI 99 sur Metacritic (~150 tests, égalité avec Ocarina of Time), 98-99 sur OpenCritic, critiques : pas de 60 i/s ; record Twitch ~3,29 M spectateurs (précédent 3,11 M, LoL Worlds 2022), 5,3 à 7+ M toutes plateformes ; pas de panne majeure. Black Friday 27 nov., Cyber Monday 30 nov. ; conseils Douane du 17 nov. 2026. Disney+ diffusera des vidéos de créateurs TikTok en décembre pour *Avengers: Doomsday*.
+
 ### 2026-11-18 · rapport n°10
 
 **Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Vues éclatées 78 · 4. Économie GTA VI 78 (jusqu'au 22 nov.) · 5. Coulisses IA 77 (nouvelle). Sort du top 5 : cybersécurité 76. Inchangées : archives restaurées 73, Minecraft hiver 71, musique et billes 70, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
