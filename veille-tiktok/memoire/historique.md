@@ -4,6 +4,28 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-20 · rapport n°12
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, économie GTA VI 78 jusqu'au 22 nov., vues éclatées 77). Aucune nouvelle entrée. Hors top 5 : coulisses IA 77 (reprendra la 5e place après GTA VI), archives restaurées 73, Minecraft hiver 71, musique et billes 70, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
+
+**Idées de vidéos proposées**
+
+- C1 « GTA VI a rapporté en un jour plus que le plus gros film en un week-end » (estimations 1,8-2,36 Md$ ; Endgame ~1,2 Md$ en 2019 ; GTA V ~800 M$ en 2013) : 20-21 nov.
+- C2 « 700 étoiles en deux jours : comment les arnaqueurs fabriquent la confiance » : 22-25 nov.
+- C3 « Pourquoi le calendrier de l'Avent vient d'Allemagne » (Gerhard Lang, Munich, 1903 ou 1908 ; portes dans les années 1920 ; 1er dimanche de l'Avent le 29 nov. 2026) : 28-29 nov., DE en priorité.
+
+**Outils et techniques repérés**
+
+- *forge3d* (MIT, compte depuis juin 2025) : modèles Blender et Blockbench à partir d'images (Minecraft).
+- ElevenLabs : sommet du 11 nov. (personnalisation, ElevenAI, programme partenaires) ; modèles vidéo de tiers dans la plateforme (Veo 3.1, Kling 4.0, Seedance 2.5 Flash, Gemini Omni 1.2 Flash) ; Seedance 1.5 Pro retiré le 11 nov.
+- Sécurité : faux « portage PC » de GTA VI passé de 55 à 697★ en 2 jours ; 5 dépôts identiques « GTA 6 Switch Version PC Emulator 2026 » de 5 comptes (19 nov.) ; nouvel add-on « blender-ai-mcp-addon » (compte d'un jour) à 859★ en 24 h.
+- Suivi : *rea-video* 11 157★, *line-art-animation* 1 073★, *cinematic-skill* 818★, *vibe-knowledge* 730★, *motlab* 228★.
+- Écartés : skill de « déduplication » pour contourner les contrôles d'originalité, faux GTA VI PC, faux add-on Blender, outils de découpe de streams GTA VI.
+
+**Faits de monétisation et de risque notés** : annonceurs espagnols (Banco Santander, Moeve) suspendant leurs campagnes TikTok après des publicités à côté de contenus illégaux (AdExchanger, 20 nov.) ; plainte du Wisconsin (19 nov.).
+
+**Événements suivis** : ventes du 1er jour de GTA VI estimées (Sensor Tower ~1,8 Md$ et ~19 M ; autre estimation ~24,6 M et ~2,36 Md$), non confirmées par Take-Two.
+
 ### 2026-11-19 · rapport n°11
 
 **Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Cybersécurité 78 (+2, statut émergent) · 4. Économie GTA VI 78 (jusqu'au 22 nov.) · 5. Vues éclatées 77 (−1, concurrence). Coulisses IA 77 sort du top 5 à égalité. Inchangées : archives restaurées 73, Minecraft hiver 71, musique et billes 70, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
