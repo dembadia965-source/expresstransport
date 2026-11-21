@@ -4,6 +4,28 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-21 · rapport n°13
+
+**Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, économie GTA VI 78 jusqu'au 22 nov., vues éclatées 77). Mouvement : séries à personnages récurrents 68 → 70 (TikTok investit dans les séries verticales). Opportunité n°1 du jour (section F) : lancement de « Noël mécanique » le 23 nov., par priorité calendaire.
+
+**Idées de vidéos proposées**
+
+- C1 « Warum viele Weihnachtsmärkte erst nach dem Totensonntag öffnen » (Totensonntag 22 nov. 2026, jour silencieux protégé par les Länder) : 23 nov. au matin, DE.
+- C2 « Le robot de l'atelier, épisode 1 : le casse-noisette » (série sans dialogue, cliffhanger vers la boîte à musique) : week-end suivant.
+- C3 « Pourquoi on dit Black Friday » (police de Philadelphie, années 1950-60 ; explication comptable dans les années 1980) : 26-27 nov.
+
+**Outils et techniques repérés**
+
+- *Blenda4D* (GPL-3.0, compte depuis oct. 2025) : mise en page motion design pour Blender.
+- Doublage IA : Symphony (annonceurs) couvre FR et DE depuis 2024 ; outil pour créateurs mentionné par une chronologie tierce, disponibilité en Europe non confirmée.
+- Concurrence : moteur 3D pour vidéos d'histoire animées (*Claude-video-tools*), kit vietnamien de vidéos animées verticales.
+- Sécurité : faux portage PC de GTA VI supprimé de GitHub ; faux add-on Blender (compte d'un jour) passé de 859 à 1 853★, toujours en ligne.
+- Suivi : *rea-video* 11 503★, *line-art-animation* 1 114★, *cinematic-skill* 857★, *vibe-knowledge* 743★, *motlab* 303★.
+
+**Faits de monétisation et de risque notés** : 2e accord de microdramas de TikTok ; lettre « The Creator's Cut » ; résumés vidéo IA arrêtés ; créateurs d'actualité dénonçant la volatilité des vues et la modération (Digiday).
+
+**Événements suivis** : drop d'hiver de Minecraft sans date officielle (estimation vers le 15 déc.) ; Totensonntag 22 nov. ; ouverture des marchés de Noël allemands.
+
 ### 2026-11-20 · rapport n°12
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, économie GTA VI 78 jusqu'au 22 nov., vues éclatées 77). Aucune nouvelle entrée. Hors top 5 : coulisses IA 77 (reprendra la 5e place après GTA VI), archives restaurées 73, Minecraft hiver 71, musique et billes 70, satisfaisant éducatif 69, séries à personnages 68, foot et physique 66.
