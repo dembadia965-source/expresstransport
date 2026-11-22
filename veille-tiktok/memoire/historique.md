@@ -4,6 +4,27 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-22 · rapport n°14 et bilan hebdomadaire n°2
+
+**Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Cybersécurité 78 · 4. Vues éclatées 77 · 5. Coulisses IA 77 (revient). Économie GTA VI sort ce soir. Hors top 5 : archives restaurées 73, Minecraft hiver 71, musique et billes 70, séries à personnages 70, satisfaisant éducatif 69, foot et physique 66.
+
+**Idées de vidéos proposées**
+
+- C1 « "Blender Pro" n'existe pas : le piège qui vise les créateurs » : cette semaine.
+- C2 « Paket-SMS : Was passiert, wenn du auf den Link klickst » (VZ Hamburg : factures jusqu'à 700 €) : 24-26 nov., DE.
+- C3 « Pourquoi le sapin Nordmann a remplacé l'épicéa » : début décembre.
+- Plan de publication de la semaine 3 (section F) : casse-noisette et Totensonntag le 23, cybersécurité le 25, Black Friday le 26, calendrier de l'Avent le 28.
+
+**Outils et techniques repérés**
+
+- Sécurité : 136 dépôts « …-pro-win » (faux logiciels « Pro » : Blender, Maya LT, Visual Studio, Acrobat, DeepL, Descript, Perplexity…) créés depuis le 19 nov., 130-330★ chacun ; faux add-on « blender-ai-mcp-addon » (bookwjitchieni1986) à 2 686★.
+- *reverse-niche-skill* (jutsuhq, MIT, compte d'oct. 2026) : recherche de vidéos qui surperforment ; vérifier la méthode de collecte (conditions de TikTok).
+- Suivi : *rea-video* 11 923★, *claude-animated-shorts* 4 504★, *line-art-animation* 1 137★, *vibe-knowledge-film* 1 478★, *cinematic-skill* 888★, *vibe-knowledge* 763★, *anymove* 653★, *cutaway* 421★, *motlab* 364★, *escapement* 181★.
+
+**Faits de risque notés** : avertissements des Verbraucherzentralen pour le Black Friday (guide de VZ Niedersachsen du 16 nov. 2026 ; faux shops construits avec l'IA ; pas de paiement d'avance ; SMS de colis).
+
+**Bilan hebdomadaire n°2** : toujours aucune statistique reçue ; priorité calendaire documentée ; suivi quotidien des faux dépôts ; proposition de rapport plus court si Demba le souhaite.
+
 ### 2026-11-21 · rapport n°13
 
 **Classement général à cette date** : inchangé en tête (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, économie GTA VI 78 jusqu'au 22 nov., vues éclatées 77). Mouvement : séries à personnages récurrents 68 → 70 (TikTok investit dans les séries verticales). Opportunité n°1 du jour (section F) : lancement de « Noël mécanique » le 23 nov., par priorité calendaire.
