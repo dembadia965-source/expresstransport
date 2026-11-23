@@ -4,6 +4,28 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-23 · rapport n°15
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Opportunité n°1 du jour (section F) : épisode 1 de « Noël mécanique », par priorité calendaire. Aucune nouvelle entrée.
+
+**Idées de vidéos proposées**
+
+- C1 Bande-annonce « Mon atelier passe en mode Noël » (transition sur « It's Time », 15-20 s, promotion) : 23 nov.
+- C2 « Warum der Adventskranz vier Kerzen hat, obwohl der erste 24 hatte » (Wichern, Hambourg, 1839) : 28-29 nov., DE.
+- C3 « Comment reconnaître un faux shop fabriqué par IA » : 25-26 nov.
+- Format retenu : numérotation compte à rebours de la série (« Noël mécanique, J-31 »).
+
+**Outils et techniques repérés**
+
+- Kandinsky 6.0 Video (Kandinsky Lab, 6 oct. 2026, MIT, Lite ~3 Md + encodeur ~8 Md, Pro 29 Md, audio synchronisé ; Lite distillé testé sur 16 Go ~3 min et 24 Go ~1 min par clip SD).
+- *film-director-skill-plugin* (Apache-2.0, compte depuis 2024).
+- Concurrence : *yumurta-stili* (têtes d'œuf 2D dans un monde 3D), *Catvibeworld-video* (animaux 3D familiaux).
+- Formats de Noël (Virlo, 18 nov.) : transition « It's Time » au pic (~433 K vues pour le meilleur exemple) ; « How Christmas dances will look this year » en baisse (52,3 M vues, 60 → 10 créateurs/semaine) ; séries compte à rebours (New Engen).
+- Sécurité : 160 dépôts « …-pro-win » ; faux « Blender Pro » 406★ ; faux add-on Blender 2 758★ ; dépôts « GTA 6 Remote Play 60 fps » et explorateur de fichiers GTA VI écartés.
+- Suivi : *rea-video* 12 345★, *claude-animated-shorts* 4 609★, *cinematic-skill* 921★, *vibe-knowledge* 781★.
+
+**Faits notés** : TikTok déploie un outil optionnel de détection de ressemblance (contenus IA utilisant l'image d'un créateur) ; centre de sécurité des marques remanié. Un « Creator Level system » cité par un récapitulatif tiers n'a pas pu être vérifié.
+
 ### 2026-11-22 · rapport n°14 et bilan hebdomadaire n°2
 
 **Classement général à cette date** : 1. Vibe Knowledge 82 · 2. Noël mécanique 80 · 3. Cybersécurité 78 · 4. Vues éclatées 77 · 5. Coulisses IA 77 (revient). Économie GTA VI sort ce soir. Hors top 5 : archives restaurées 73, Minecraft hiver 71, musique et billes 70, séries à personnages 70, satisfaisant éducatif 69, foot et physique 66.
