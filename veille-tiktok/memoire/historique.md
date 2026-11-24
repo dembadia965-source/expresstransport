@@ -4,6 +4,27 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-24 · rapport n°16
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Aucune nouvelle entrée.
+
+**Idées de vidéos proposées**
+
+- C1 « TikTok sait-il que ta vidéo est faite par IA ? » (Content Credentials, filigranes, vérificateur public, détection de ressemblance) : cette semaine.
+- C2 « Comment une guirlande LED change de couleur » (LED RGB, mélange additif, PWM) : début décembre, Noël mécanique.
+- C3 « Pourquoi les prix finissent par 99 » (effet du chiffre de gauche, Thomas et Morwitz, JCR 2005) : 26-27 nov.
+
+**Outils et techniques repérés**
+
+- Blender 5.3 : nœuds « Material Lighting » pour EEVEE ; pas de 5.3.1 annoncée.
+- *manim-explainer* (MIT, auteur depuis 2017).
+- Google Vids : 3 clips Omni 1.2 Flash de 15 s par mois en gratuit (source unique, non vérifiée).
+- Sécurité : faux « Blender Pro » et faux add-on IA Blender supprimés de GitHub ; « …-pro-win » 160 → 117 ; *blender-connector* (relais de mcp-for-blender) écarté.
+- Suivi : *rea-video* 12 767★, *claude-animated-shorts* 4 727★, *cinematic-skill* 947★, *vibe-knowledge* 797★.
+- Écartés : blender-connector, GameAnything.
+
+**Faits notés** : selon Music Business Worldwide (23 nov.), TikTok déploie mondialement la détection de ressemblance et lance un vérificateur public de contenus IA limité aux outils TikTok et ByteDance ; refonte de Family Pairing (23 nov.).
+
 ### 2026-11-23 · rapport n°15
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Opportunité n°1 du jour (section F) : épisode 1 de « Noël mécanique », par priorité calendaire. Aucune nouvelle entrée.
