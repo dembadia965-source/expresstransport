@@ -4,6 +4,29 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-25 · rapport n°17
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Aucune nouvelle entrée.
+
+**Idées de vidéos proposées**
+
+- C1 « Non, Coca-Cola n'a pas inventé le Père Noël en rouge » (Nast 1881 « Merry Old Santa », images rouges avant 1931, la pub de 1931 a fixé l'image ; aucun logo) : début décembre.
+- C2 « Pourquoi tu peux rallumer une bougie sans toucher la mèche » (cire vaporisée, capillarité ; avertissement sécurité) : mi-décembre, Noël mécanique.
+- C3 « Pourquoi la neige crisse sous tes pieds » (couche quasi liquide près de 0 °C, pas de seuil précis) : au premier froid.
+
+**Outils et techniques repérés**
+
+- *minecraft-style-video* (MIT, compte depuis 2025-11, 23 dépôts) : vidéos voxel, grille de pixels verrouillée, storyboards 9:16.
+- *news-documentary-video-skill* (compte depuis 2026-10, licence non précisée) : documentaire d'actualité en code, coupures de journaux.
+- *blueprint* (MIT, même auteur que cutaway, compte récent) : maison 3D qui se construit à partir d'un croquis ; piste B2B immobilier, expérimentale.
+- Sécurité : vague localisée (ja/id/pl) de faux « Blender 5.3 Portable / Studio Portable / + ZBrush 2027 » (comptes créés les 24-25 nov., ~100-130★), faux « Blender pour Windows » (101★) et « MakeHuman pour Windows » ; « …-pro-win » 117 → 154. Rappel : la version portable officielle existe sur blender.org.
+- Suivi : *rea-video* 13 099★, *claude-animated-shorts* 4 835★, *cinematic-skill* 982★, *vibe-knowledge* 812★.
+- Écartés : faux Blender 5.3 portable, serveurs Blender MCP sans historique, MCP « Veo sans clé d'API ».
+
+**Faits notés** : TikTok One (chronologie Metricool) : label sur invitation +15 % sur les Custom Collabs, paiement sous 30 jours sans frais, partenariat Cameo. Disney+ diffusera des vidéos de créateurs TikTok en décembre, alignées sur *Avengers: Doomsday* (18 déc.), pilote aux États-Unis d'abord. Aucune sortie vidéo IA notable les 24-25 nov.
+
+**Sources inaccessibles** : TikTok, blender.org, Reddit, Tryvolume, 36Kr (lecture directe bloquée, résumés du moteur de recherche utilisés).
+
 ### 2026-11-24 · rapport n°16
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Aucune nouvelle entrée.
