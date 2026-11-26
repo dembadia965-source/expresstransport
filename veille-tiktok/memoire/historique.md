@@ -4,6 +4,29 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-26 · rapport n°18
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Aucune nouvelle entrée.
+
+**Idées de vidéos proposées**
+
+- C1 « Le même grille-pain, à 100 ans d'écart » (Toastmaster 1926, brevet Strite accordé le 18 oct. 1921 ; format « Same Spot, Years Apart » ; série « 100 ans d'écart ») : avant le 31 déc.
+- C2 « Pourquoi saint Nicolas passe le 6 décembre (et pourquoi Luther voulait s'en débarrasser) » (Myre, IVe s., légende de la dot, bottes du 5 au soir, Christkind) : FR le 4 déc., DE le 5 au matin ; suite de la vidéo Père Noël rouge.
+- C3 « Mon atelier en 2026 : tout ce que j'ai construit cette année » (récap, caméra fixe) : 28-31 déc.
+- Piste : version longue YouTube de « Noël mécanique » en janvier.
+
+**Outils et techniques repérés**
+
+- MAGI-2 (Sand AI, 24-25 nov.) : 4-30 s, 1080p, audio natif, 1er en image vers vidéo (Artificial Analysis, à égalité avec Seedance 2.5) ; API payante (Sand AI, Higgsfield, VidMuse ; ~0,10 $/s chez Pixazo) ; poids non publiés, préversion 114 Md Apache-2.0 (août). Skill *guizang-magi2-skill* (op7418, AGPL-3.0).
+- *KapeCut* (brewed-ops, compte ancien, licence non précisée), *claude-video-effects* (jasonc00person, compte ancien, licence non précisée), *real-time-manim* (Team-Axioviva, MIT, compte de nov. 2026).
+- Sécurité : 685 dépôts « … for Windows 10/11 » créés du 24 au 26 nov. (~190-200★), dont faux ElevenLabs Studio, Topaz, Filmora, Premiere Pro, Trapcode, DaVinci ; « pro-win » 154 → 183 ; téléchargeurs « sans filigrane » et « générateurs de Shorts » clonés.
+- Suivi : *rea-video* 13 462★, *claude-animated-shorts* 4 976★, *vibe-knowledge-film* 1 587★, *cinematic-skill* 1 020★, *vibe-knowledge* 827★, *blueprint* 106★, *news-documentary-video-skill* 74★.
+- Écartés : faux logiciels « for Windows », téléchargeurs sans filigrane, générateurs de Shorts clonés, *blerobx* (style Roblox, compte récent).
+
+**Faits notés** : YouTube (blog officiel, annonce du 10 août) : à partir du 1er févr. 2027, 10 M de vues Shorts qualifiées sur 90 jours pour être payé sur les Shorts ; entrée YPP 8 000 h/365 j ou 20 M vues Shorts/90 j ; 1 000 abonnés inchangé. Allemagne et Autriche : déclaration commune du 18 nov. pour une propriété européenne de TikTok Europe (aucun effet concret). Tendances de la semaine : « Same Spot, Years Apart », montages de l'année, musiques de Noël en hausse. Minecraft 26.4 : toujours estimé vers le 15 déc., non confirmé.
+
+**Sources inaccessibles** : TikTok, blender.org, Reddit, Tryvolume, 36Kr (lecture directe bloquée). Fiches de profil GitHub (users/…) désormais refusées : âge des comptes estimé par recherche.
+
 ### 2026-11-25 · rapport n°17
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Aucune nouvelle entrée.
