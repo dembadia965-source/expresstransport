@@ -4,6 +4,29 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-27 · rapport n°19
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Opportunité n°1 du jour (section F) : couronne de l'Avent (idée du 23 nov.) pour le 1er dimanche de l'Avent, 29 nov. Aucune nouvelle entrée.
+
+**Idées de vidéos proposées**
+
+- C1 « Ce chocolat n'est pas moisi » (blanchiment gras et sucrier, test à l'air chaud, comestible ; la moisissure se jette) : 1er-3 déc.
+- C2 « J'ai laissé Claude regarder sa propre vidéo » (Coulisses IA, après test de VibeVideoAgent) : semaine prochaine, si le test marche.
+- C3 « Non, un VPN ne te fera pas payer par TikTok » (cybersécurité, public francophone hors Europe) : semaine prochaine.
+- Piste 2027 : animations produit 3D pour vendeurs TikTok Shop FR/DE, démarchage dès septembre.
+
+**Outils et techniques repérés**
+
+- *VibeVideoAgent* (KlingAI Research / Keye, 26 nov., MIT, arXiv 2611.34237) : outils MCP pour que Claude Code analyse ses rendus ; 4,03 → 4,43 sur VibeVideoBench (selon un résumé) ; coût d'API à vérifier.
+- *claude-animated-documentary-skill* (generalizingai, MIT, compte ancien), *claude-copy-style* (jasonc00person, licence non précisée), *dlssr* (afterlab, GPL-3.0 ; DLSS au rendu final Cycles ; concurrent payant DLSS Render Pro sur Superhive, non recommandé).
+- CapCut World LA (fin oct.) : EditPilot sur ordinateur, édition dans l'aperçu, éditeur web, test d'outil de transparence IA ; CapCut World London le 26 nov. (annonces non publiées) ; concours AI Visual EU clos depuis avril.
+- Sécurité : 273 dépôts publicitaires d'IP résidentielles depuis le 1er nov. (thème TikTok depuis le 20) ; « pro-win » 183 → 213 ; « for Windows 10/11 » 737 depuis le 24 nov. (430 le 24, 59 le 26).
+- Écartés : IP résidentielles et VPS TikTok, plateforme de repost vers 13 plateformes, PClabs, skill « style Roblox ».
+
+**Faits notés** : TikTok Shop BFCM jusqu'au 30 nov., stratégie centrée sur le live ; repères 2025 : >500 M$ aux US sur 4 jours, +45 % au Royaume-Uni. ElevenLabs : ARR de 600 M$ (sept.), valorisation 22 Md$ ; « 700 M$ » non confirmé. Pika H3 Flex déjà écarté (licence MiniMax H3). Aucune annonce TikTok officielle trouvée pour les 25-26 nov.
+
+**Sources inaccessibles** : TikTok, blender.org, Reddit, Tryvolume, 36Kr (lecture directe bloquée).
+
 ### 2026-11-26 · rapport n°18
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Aucune nouvelle entrée.
