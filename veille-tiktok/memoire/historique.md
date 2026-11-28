@@ -4,6 +4,28 @@ Mémoire de l'agent. Chaque exécution ajoute une entrée datée **en haut** de 
 
 ## Entrées
 
+### 2026-11-28 · rapport n°20
+
+**Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Opportunité n°1 du jour (section F) : Sainte-Barbe (Vibe Knowledge), par priorité calendaire. Aucune nouvelle entrée.
+
+**Idées de vidéos proposées**
+
+- C1 « Coupe une branche le 4 décembre, elle fleurira à Noël » (Barbarazweige, attestés depuis le XIIIe s. selon les sources ; blé de la Sainte-Barbe en Provence ; dormance et somme de chaleur) : 2-3 déc.
+- C2 « Les étoiles filantes de décembre ne viennent pas d'une comète » (Géminides, 3200 Phaéton, pic nuit du 13 au 14 déc., mince croissant de lune) : 11-12 déc.
+- C3 « J'ai fait disséquer ma propre vidéo par Claude » (riffsheet ou FFmpeg + vraie courbe de rétention) : dès qu'une vidéo a assez de vues.
+
+**Outils et techniques repérés**
+
+- *riffsheet* (riffkit, MIT, organisation de 2026) : analyse plan par plan en local ; *manim-stage* (sethstenzel, MIT, auteur ancien) : studio et timeline pour Manim ; *letitedit* (GPL-3.0, organisation créée en nov., bêta Windows) : éditeur libre où Claude Code monte sur une timeline.
+- CapCut World London (26 nov., compte rendu officiel) : programme partenaire par niveaux annoncé en avant-première (détails à venir) ; plugin CapCut dans ChatGPT et Codex (bureau, hors US) ; test de l'outil de vérification IA.
+- Sécurité : 430 dépôts « …-pro-patcher-installer » depuis le 26 nov., dont 18 faux add-ons Blender payants (FLIP Fluids, Boxcutter, DECALmachine, MeshMachine, RetopoFlow 4, Zen UV, Simply Cloth, K-Cycles, E-Cycles, EmberGen, RBDLab, Octane, Sanctus Library, True-Terrain, Traffiq, AI Render, MACHIN3tools, Aquatiq) ; « for Windows 10/11 » 737 → 336 (suppressions) ; « pro-win » 213 → 246.
+- Suivi : *rea-video* 14 048★, *claude-animated-shorts* 5 239★, *vibe-knowledge-film* 1 638★, *cinematic-skill* 1 102★, *vibe-knowledge* 853★, *blueprint* 163★, *claude-copy-style* 57★, *VibeVideoAgent* 14★.
+- Écartés : faux patchers, skill de recréation de vidéos virales (Seedance, MAGI-2).
+
+**Faits notés** : tendances de Noël (New Engen, 19 nov.) : démarrage dès le 1er nov., « value checks » de calendriers de l'Avent, cadeaux déguisés. Calendrier : 1er Avent le 29 nov., Sainte-Barbe le 4 déc., Saint-Nicolas le 6, Géminides le 13-14, Minecraft vers le 15 (non confirmé). Aucune décision finale de la Commission sur TikTok depuis le 6 nov. Pas de Blender 5.3.1.
+
+**Sources inaccessibles** : TikTok, blender.org, Reddit, Tryvolume, 36Kr (lecture directe bloquée).
+
 ### 2026-11-27 · rapport n°19
 
 **Classement général à cette date** : inchangé (Vibe Knowledge 82, Noël mécanique 80, cybersécurité 78, vues éclatées 77, coulisses IA 77). Opportunité n°1 du jour (section F) : couronne de l'Avent (idée du 23 nov.) pour le 1er dimanche de l'Avent, 29 nov. Aucune nouvelle entrée.
